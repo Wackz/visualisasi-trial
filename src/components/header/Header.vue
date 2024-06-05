@@ -47,7 +47,7 @@ onBeforeUnmount(() => {
           height="45"
           class="block"
         />
-        <p class="text-white leading-5 ml-2 text-left lg:font-bold">
+        <p class="text-white leading-5 ml-2 text-left font-semibold">
           Web Hasil PKL D-IV 63 <br />
           <span class="text-amber-400">T.A. 2023/2024</span>
         </p>
@@ -76,8 +76,8 @@ onBeforeUnmount(() => {
         <transition name="fade">
           <div
             :class="[
-              'lg:hidden fixed top-0 left-0 w-full h-max bg-black bg-opacity-5 -translate-y-full transition-all duration-300',
-              isMobileDropdownOpen && 'translate-y-0 top-16',
+              'lg:hidden fixed top-0 left-0 w-full h-max -translate-y-full transition-transform duration-300 opacity-0',
+              isMobileDropdownOpen && 'translate-y-0 top-16 opacity-100',
             ]"
           >
             <div class="flex flex-col items-center">
@@ -87,10 +87,10 @@ onBeforeUnmount(() => {
                 :key="item.name"
                 :to="item.href"
                 :class="[
-                  'block px-4 py-2 border-b border-accent w-full text-center text-xl',
+                  'block px-4 py-2 border-b border-accent w-full text-center text-xl text-white',
                   item.href === $route.fullPath
                     ? 'bg-primary text-xl font-bold'
-                    : 'bg-primary transition-transform duration-300 transform hover:scale-110',
+                    : 'bg-primary transition-transform duration-300 transform lg:hover:scale-110',
                   item.name === 'Hasil PKL'
                     ? 'text-primary bg-yellow-500  hover:bg-yellow-400 '
                     : '',

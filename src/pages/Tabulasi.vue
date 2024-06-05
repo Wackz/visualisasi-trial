@@ -1,27 +1,13 @@
 <script setup>
-import { pilihanData, kategori } from "../data/kor";
+import { pilihanData, kategori, allKor2 } from "../data/kor";
 import { ref, watch } from "vue";
 
 const dataTerpilih = ref(0);
-const kategoriTerpilih = ref({
-  anak: true,
-  dewasa: true,
-  ortu: true,
-});
-const wilayahTerpilih = ref({
-  badung: true,
-  bangli: true,
-  buleleng: true,
-  denpasar: true,
-  gianyar: true,
-  jembrana: true,
-  karangasem: true,
-  klungkung: true,
-  tabanan: true,
-  provinsi: true,
-});
+const wilayahTerpilih = ref(0);
+const selectedData = ref(allKor2[dataTerpilih.value][wilayahTerpilih.value]);
 
 const kab = [
+  "Provinsi Bali",
   "Badung",
   "Bangli",
   "Buleleng",
@@ -33,237 +19,131 @@ const kab = [
   "Tabanan",
 ];
 
-const data = [
-  {
-    title: "Estimasi Perilaku Pelestarian Budaya",
-    data: {
-      badung: 60,
-      bangli: 20,
-      buleleng: 68,
-      denpasar: 41,
-      gianyar: 23,
-      jembrana: 57,
-      karangasem: 36,
-      klungkung: 20,
-      tabanan: 69,
-    },
-  },
-  {
-    title: "Estimasi Perilaku Digital",
-    data: {
-      badung: 60,
-      bangli: 20,
-      buleleng: 68,
-      denpasar: 41,
-      gianyar: 23,
-      jembrana: 57,
-      karangasem: 36,
-      klungkung: 20,
-      tabanan: 69,
-    },
-  },
-  {
-    title: "Estimasi Perilaku Belajar",
-    data: {
-      badung: 60,
-      bangli: 20,
-      buleleng: 68,
-      denpasar: 41,
-      gianyar: 23,
-      jembrana: 57,
-      karangasem: 36,
-      klungkung: 20,
-      tabanan: 69,
-    },
-  },
-];
-
-const currentData = ref();
-const tabelShow = ref(false);
-const selectedData = ref(data);
-
-const handleDataChoose = (item) => {
-  currentData.value = item;
-};
-
-const addData = () => {
-  if (
-    !selectedData.value.some((item) => item.title === currentData.value.title)
-  ) {
-    selectedData.value.push(currentData.value);
-    tabelShow.value = true;
-  }
-};
-
-const resetdata = () => {
-  selectedData.value = [];
-  tabelShow.value = false;
-};
+watch([dataTerpilih, wilayahTerpilih], () => {
+  selectedData.value = allKor2[dataTerpilih.value][wilayahTerpilih.value];
+  console.log(selectedData);
+});
 </script>
 
 <template>
-  <h3 class="text-primary text-left">Pilih Data</h3>
-  <select
-    name="data"
-    id="data"
-    class="w-full border-2 border-primary bg-white rounded-xl focus:border-primary focus:ring-primary py-1 px-2"
-    v-model="dataTerpilih"
-  >
-    <option v-for="item in pilihanData" :key="item.value" :value="item.value">
-      {{ item.name }}
-    </option>
-  </select>
-
-  <div class="flex flex-col md:flex-row justify-center gap-4 mt-4">
-    <div class="w-full">
-      <h3 class="text-primary text-left">Pilih Kategori</h3>
-      <div
-        class="w-full h-fit flex flex-col p-4 items-stretch justify-center border-2 border-primary bg-white rounded-xl focus:border-primary focus:ring-primary"
-      >
-        <label
-          v-for="(checked, kategori) in kategoriTerpilih"
-          :key="kategori"
-          class="capitalize"
+  <div class="min-h-[90vh] flex flex-col justify-start">
+    <h1
+      class="text-primary text-3xl md:text-4xl lg:text-5xl font-bold md:mt-12"
+    >
+      Tabulasi
+    </h1>
+    <h3 class="text-lg md:text-xl lg:text-2xl font-semibold text-primary mb-4">
+      Perilaku Pelestarian Budaya <span class="text-accent">Gen-Z</span> di Bali
+    </h3>
+    <div class="flex flex-col md:flex-row justify-center gap-4">
+      <div class="w-full">
+        <h3 class="text-primary text-left">Pilih Data</h3>
+        <select
+          name="data"
+          id="data"
+          class="w-full border-2 border-primary bg-white rounded-xl focus:border-primary focus:ring-primary py-1 px-2"
+          v-model="dataTerpilih"
         >
-          <input
-            type="checkbox"
-            v-model="kategoriTerpilih[kategori]"
-            class="text-sm font-medium text-primary focus:border-primary focus:ring-0 rounded-xl"
-          />
-          {{ kategori }}
-        </label>
+          <option
+            v-for="item in pilihanData"
+            :key="item.value"
+            :value="item.value"
+          >
+            {{ item.name }}
+          </option>
+        </select>
       </div>
-    </div>
-    <div class="w-full">
-      <h3 class="text-primary text-left">Pilih Daerah</h3>
-      <div
-        class="w-full flex flex-col p-4 items-stretch justify-center border-2 border-primary bg-white rounded-xl focus:border-primary focus:ring-primary"
-      >
-        <label
-          v-for="(checked, kategori) in wilayahTerpilih"
-          :key="kategori"
-          class="capitalize"
+      <div class="w-full">
+        <h3 class="text-primary text-left">Pilih Wilayah</h3>
+        <select
+          name="wilayah"
+          id="wilayah"
+          class="w-full border-2 border-primary bg-white rounded-xl focus:border-primary focus:ring-primary py-1 px-2"
+          v-model="wilayahTerpilih"
         >
-          <input
-            type="checkbox"
-            v-model="wilayahTerpilih[kategori]"
-            class="text-sm font-medium text-primary focus:border-primary focus:ring-0 rounded-xl"
-          />
-          {{ kategori }}
-        </label>
+          <option v-for="(item, index) in kab" :key="index" :value="index">
+            {{ item }}
+          </option>
+        </select>
       </div>
+      <!-- <div class="w-full">
+        <h3 class="text-primary text-left">Pilih Kategori</h3>
+        <div
+          class="w-full h-fit flex flex-col p-4 items-stretch justify-center border-2 border-primary bg-white rounded-xl focus:border-primary focus:ring-primary"
+        >
+          <label
+            v-for="(checked, kategori) in kategoriTerpilih"
+            :key="kategori"
+            class="capitalize"
+          >
+            <input
+              type="checkbox"
+              v-model="kategoriTerpilih[kategori]"
+              class="text-sm font-medium text-primary focus:border-primary focus:ring-0 rounded-xl"
+            />
+            {{ kategori }}
+          </label>
+        </div>
+      </div>
+      <div class="w-full">
+        <h3 class="text-primary text-left">Pilih Daerah</h3>
+        <div
+          class="w-full flex flex-col p-4 items-stretch justify-center border-2 border-primary bg-white rounded-xl focus:border-primary focus:ring-primary"
+        >
+          <label
+            v-for="(checked, kategori) in wilayahTerpilih"
+            :key="kategori"
+            class="capitalize"
+          >
+            <input
+              type="checkbox"
+              v-model="wilayahTerpilih[kategori]"
+              class="text-sm font-medium text-primary focus:border-primary focus:ring-0 rounded-xl"
+            />
+            {{ kategori }}
+          </label>
+        </div>
+      </div> -->
     </div>
-  </div>
-
-  <h3 class="text-primary text-center text-3xl font-bold my-6">Tabel Tabulasi</h3>
-  <div class="overflow-x-scroll md:overflow-hidden">
-    <table class="mx-auto border border-collapse border-gray-400">
-      <thead class="bg-gray-50">
-        <tr class="bg-amber-300">
-          <th class="px-6 py-3 text-center font-bold uppercase text-secondary">
-            Kabupaten/Kota
+    <h3
+      class="text-primary text-center text-xl md:text-2xl lg:text-3xl font-bold my-6"
+    >
+      {{ selectedData.title }}
+    </h3>
+    <div class="overflow-x-scroll md:overflow-hidden">
+      <table class="mx-auto border rounded-xl bg-white border-separate">
+        <thead class="bg-amber-300">
+          <th class="px-6 py-3 text-center font-bold uppercase text-secondary border">
+            {{ dataTerpilih == 14 ? "Dimensi" : "Kategori Frekuensi" }}
           </th>
           <th
-            class="px-6 py-3 text-center font-bold uppercase text-secondary"
-            v-for="item in selectedData"
-            :key="item.title"
+            class="px-6 py-3 text-center font-bold uppercase text-secondary border"
+            v-for="item in kategori"
+            :key="item.name"
           >
-            {{ item.title }}
+            {{ item.name }}
           </th>
-        </tr>
-      </thead>
-      <tbody class="bg-white divide-y divide-gray-200">
-        <tr v-show="wilayahTerpilih.badung">
-          <td class="p-2">Badung</td>
-          <td
-            v-for="item in selectedData"
-            :key="item.title"
-            class="text-center"
+        </thead>
+        <tbody>
+          <tr
+            v-for="(item, index) in selectedData.data[0]"
+            :key="index"
+            :class="{ 'bg-gray-100': index % 2 == 0 }"
+            class="border"
           >
-            {{ item.data.badung }}
-          </td>
-        </tr>
-        <tr v-show="wilayahTerpilih.bangli">
-          <td class="p-2">Bangli</td>
-          <td
-            v-for="item in selectedData"
-            :key="item.title"
-            class="text-center"
-          >
-            {{ item.data.bangli }}
-          </td>
-        </tr>
-        <tr v-show="wilayahTerpilih.buleleng">
-          <td class="p-2">Buleleng</td>
-          <td
-            v-for="item in selectedData"
-            :key="item.title"
-            class="text-center"
-          >
-            {{ item.data.buleleng }}
-          </td>
-        </tr>
-        <tr v-show="wilayahTerpilih.denpasar">
-          <td class="p-2">Denpasar</td>
-          <td
-            v-for="item in selectedData"
-            :key="item.title"
-            class="text-center"
-          >
-            {{ item.data.denpasar }}
-          </td>
-        </tr>
-        <tr v-show="wilayahTerpilih.gianyar">
-          <td class="p-2">Gianyar</td>
-          <td
-            v-for="item in selectedData"
-            :key="item.title"
-            class="text-center"
-          >
-            {{ item.data.gianyar }}
-          </td>
-        </tr>
-        <tr v-show="wilayahTerpilih.jembrana">
-          <td class="p-2">Jembrana</td>
-          <td
-            v-for="item in selectedData"
-            :key="item.title"
-            class="text-center"
-          >
-            {{ item.data.jembrana }}
-          </td>
-        </tr>
-        <tr v-show="wilayahTerpilih.karangasem">
-          <td class="p-2">Karangasem</td>
-          <td
-            v-for="item in selectedData"
-            :key="item.title"
-            class="text-center"
-          >
-            {{ item.data.karangasem }}
-          </td>
-        </tr>
-        <tr v-show="wilayahTerpilih.klungkung">
-          <td class="p-2">Klungkung</td>
-          <td
-            v-for="item in selectedData"
-            :key="item.title"
-            class="text-center"
-          >
-            {{ item.data.klungkung }}
-          </td>
-        </tr>
-        <tr v-show="wilayahTerpilih.tabanan">
-          <td class="p-2">Tabanan</td>
-          <td
-            v-for="item in selectedData"
-            :key="item.title"
-            class="text-center"
-          >
-            {{ item.data.tabanan }}
-          </td>
-        </tr>
-      </tbody>
-    </table>
+            <td class="py-1 px-2 font-semibold border">
+              {{ dataTerpilih == 14 ? item.axis : item.label }}
+            </td>
+            <td class="text-center py-1 px-2 border">{{ item.value }}</td>
+            <td class="text-center py-1 px-2 border">
+              {{ selectedData.data[1][index].value }}
+            </td>
+            <td class="text-center py-1 px-2 border">
+              {{ selectedData.data[2][index].value }}
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
   </div>
 </template>

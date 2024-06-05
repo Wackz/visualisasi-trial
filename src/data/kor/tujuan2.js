@@ -62,12 +62,60 @@ export const pilihanData = [
     value: 0,
   },
   {
-    name: "Berpartisipasi aktif Upacara Adat",
+    name: "Berpartisipasi aktif dalam Upacara Adat",
     value: 1,
   },
   {
-    name: "Menggunakan bahasa daerah",
+    name: "Menggunakan Bahasa Daerah di Rumah",
     value: 2,
+  },
+  {
+    name: "Menggunakan Bahasa Daerah di Lingkungan Pergaulan",
+    value: 3,
+  },
+  {
+    name: "Menggunakan Bahasa Daerah di Media Sosial",
+    value: 4,
+  },
+  {
+    name: "Jumlah Dongeng Diketahui",
+    value: 5,
+  },
+  {
+    name: "Kunjungan Langsung ke Tempat Bersejarah",
+    value: 6,
+  },
+  {
+    name: "Kunjungan Tidak Langsung ke Tempat Bersejarah",
+    value: 7,
+  },
+  {
+    name: "Menonton Pertunjukan Seni secara Langsung",
+    value: 8,
+  },
+  {
+    name: "Menonton Pertunjukan Seni secara Tidak Langsung",
+    value: 9,
+  },
+  {
+    name: "Berperan sebagai Pemeran Pertunjukan Seni",
+    value: 10,
+  },
+  {
+    name: "Berperan dalam produksi Pertunjukan Seni",
+    value: 11,
+  },
+  {
+    name: "Penggunaan Produk Tradisional",
+    value: 12,
+  },
+  {
+    name: "Frekuensi melakukan Permainan Rakyat",
+    value: 13,
+  },
+  {
+    name: "Skor Budaya",
+    value: 14,
   },
 ];
 
