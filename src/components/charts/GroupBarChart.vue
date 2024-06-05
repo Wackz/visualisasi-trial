@@ -4,7 +4,7 @@
     <!-- Download Button -->
     <div
       :class="[
-        'w-9 h-9 absolute top-0 right-0 rounded-full flex justify-center items-center bg-primary hover:bg-secondary group',
+        'w-9 h-9 absolute top-12 md:top-0 right-0 rounded-full flex justify-center items-center bg-primary hover:bg-secondary group',
         { hidden: data.length === 0 },
       ]"
     >
@@ -113,7 +113,6 @@ export default {
   },
   methods: {
     createChart() {
-      console.log(d3.select(`#${this.title}`));
       d3.select(`#${this.title}`).style("background-color", "transparent");
       d3.select(`#${this.title}`).selectAll("*").remove();
 
@@ -275,7 +274,6 @@ export default {
       const legend = svg
         .append("g")
         .attr("font-size", 12)
-        .attr("font-weight", "bold")
         .attr("text-anchor", "start")
         .selectAll("g")
         .data(this.keys)
@@ -292,8 +290,8 @@ export default {
       legend
         .append("rect")
         .attr("x", 0)
-        .attr("width", 26)
-        .attr("height", 26)
+        .attr("width", 15)
+        .attr("height", 15)
         .attr("fill", color);
 
       legend

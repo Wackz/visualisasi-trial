@@ -2413,7 +2413,7 @@ export const skorData = [
     interpretasi:
       "secara umum rata-rata nilai perilaku pelestarian budaya di Provinsi Bali dengan skenario 1 (isian tidak ingat diberi nilai 0) untuk orang tua ketika berumur 11-27 tahun lebih tinggi di hampir semua dimensi dibandingkan Gen Z. Gen Z memiliki skor yang lebih unggul hanya dalam dimensi peninggalan sejarah dan pertunjukkan seni. Pada dimensi permainan rakyat, terdapat gap yang besar antara orang tua (0,76) dan gen Z (0,43). Hal ini dapat disebabkan oleh kemajuan teknologi yang mengakibatkan pergeseran budaya bermain pada gen Z.",
     label: ["Skor GenZ Anak", "Skor GenZ Dewasa", "Skor Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
     isPercentage: true,
     data: [
       [
@@ -2450,7 +2450,7 @@ export const skorData = [
     interpretasi:
       "secara umum rata-rata nilai perilaku pelestarian budaya di Provinsi Bali dengan skenario 1 (isian tidak ingat diberi nilai 0) untuk orang tua ketika berumur 11-27 tahun lebih tinggi di hampir semua dimensi dibandingkan Gen Z. Gen Z memiliki skor yang lebih unggul hanya dalam dimensi peninggalan sejarah dan pertunjukkan seni. Pada dimensi permainan rakyat, terdapat gap yang besar antara orang tua (0,76) dan gen Z (0,43). Hal ini dapat disebabkan oleh kemajuan teknologi yang mengakibatkan pergeseran budaya bermain pada gen Z.",
     label: ["Skor GenZ Anak", "Skor GenZ Dewasa", "Skor Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
     isPercentage: true,
     data: [
       [
@@ -2487,7 +2487,7 @@ export const skorData = [
     interpretasi:
       "secara umum rata-rata nilai perilaku pelestarian budaya di Provinsi Bali dengan skenario 1 (isian tidak ingat diberi nilai 0) untuk orang tua ketika berumur 11-27 tahun lebih tinggi di hampir semua dimensi dibandingkan Gen Z. Gen Z memiliki skor yang lebih unggul hanya dalam dimensi peninggalan sejarah dan pertunjukkan seni. Pada dimensi permainan rakyat, terdapat gap yang besar antara orang tua (0,76) dan gen Z (0,43). Hal ini dapat disebabkan oleh kemajuan teknologi yang mengakibatkan pergeseran budaya bermain pada gen Z.",
     label: ["Skor GenZ Anak", "Skor GenZ Dewasa", "Skor Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
     isPercentage: true,
     data: [
       [
@@ -2524,7 +2524,7 @@ export const skorData = [
     interpretasi:
       "secara umum rata-rata nilai perilaku pelestarian budaya di Provinsi Bali dengan skenario 1 (isian tidak ingat diberi nilai 0) untuk orang tua ketika berumur 11-27 tahun lebih tinggi di hampir semua dimensi dibandingkan Gen Z. Gen Z memiliki skor yang lebih unggul hanya dalam dimensi peninggalan sejarah dan pertunjukkan seni. Pada dimensi permainan rakyat, terdapat gap yang besar antara orang tua (0,76) dan gen Z (0,43). Hal ini dapat disebabkan oleh kemajuan teknologi yang mengakibatkan pergeseran budaya bermain pada gen Z.",
     label: ["Skor GenZ Anak", "Skor GenZ Dewasa", "Skor Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
     isPercentage: true,
     data: [
       [
@@ -2561,7 +2561,7 @@ export const skorData = [
     interpretasi:
       "secara umum rata-rata nilai perilaku pelestarian budaya di Provinsi Bali dengan skenario 1 (isian tidak ingat diberi nilai 0) untuk orang tua ketika berumur 11-27 tahun lebih tinggi di hampir semua dimensi dibandingkan Gen Z. Gen Z memiliki skor yang lebih unggul hanya dalam dimensi peninggalan sejarah dan pertunjukkan seni. Pada dimensi permainan rakyat, terdapat gap yang besar antara orang tua (0,76) dan gen Z (0,43). Hal ini dapat disebabkan oleh kemajuan teknologi yang mengakibatkan pergeseran budaya bermain pada gen Z.",
     label: ["Skor GenZ Anak", "Skor GenZ Dewasa", "Skor Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
     isPercentage: true,
     data: [
       [
@@ -2598,7 +2598,7 @@ export const skorData = [
     interpretasi:
       "secara umum rata-rata nilai perilaku pelestarian budaya di Provinsi Bali dengan skenario 1 (isian tidak ingat diberi nilai 0) untuk orang tua ketika berumur 11-27 tahun lebih tinggi di hampir semua dimensi dibandingkan Gen Z. Gen Z memiliki skor yang lebih unggul hanya dalam dimensi peninggalan sejarah dan pertunjukkan seni. Pada dimensi permainan rakyat, terdapat gap yang besar antara orang tua (0,76) dan gen Z (0,43). Hal ini dapat disebabkan oleh kemajuan teknologi yang mengakibatkan pergeseran budaya bermain pada gen Z.",
     label: ["Skor GenZ Anak", "Skor GenZ Dewasa", "Skor Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
     isPercentage: true,
     data: [
       [
@@ -2635,7 +2635,7 @@ export const skorData = [
     interpretasi:
       "secara umum rata-rata nilai perilaku pelestarian budaya di Provinsi Bali dengan skenario 1 (isian tidak ingat diberi nilai 0) untuk orang tua ketika berumur 11-27 tahun lebih tinggi di hampir semua dimensi dibandingkan Gen Z. Gen Z memiliki skor yang lebih unggul hanya dalam dimensi peninggalan sejarah dan pertunjukkan seni. Pada dimensi permainan rakyat, terdapat gap yang besar antara orang tua (0,76) dan gen Z (0,43). Hal ini dapat disebabkan oleh kemajuan teknologi yang mengakibatkan pergeseran budaya bermain pada gen Z.",
     label: ["Skor GenZ Anak", "Skor GenZ Dewasa", "Skor Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
     isPercentage: true,
     data: [
       [
@@ -2672,7 +2672,7 @@ export const skorData = [
     interpretasi:
       "secara umum rata-rata nilai perilaku pelestarian budaya di Provinsi Bali dengan skenario 1 (isian tidak ingat diberi nilai 0) untuk orang tua ketika berumur 11-27 tahun lebih tinggi di hampir semua dimensi dibandingkan Gen Z. Gen Z memiliki skor yang lebih unggul hanya dalam dimensi peninggalan sejarah dan pertunjukkan seni. Pada dimensi permainan rakyat, terdapat gap yang besar antara orang tua (0,76) dan gen Z (0,43). Hal ini dapat disebabkan oleh kemajuan teknologi yang mengakibatkan pergeseran budaya bermain pada gen Z.",
     label: ["Skor GenZ Anak", "Skor GenZ Dewasa", "Skor Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
     isPercentage: true,
     data: [
       [
@@ -2709,7 +2709,7 @@ export const skorData = [
     interpretasi:
       "secara umum rata-rata nilai perilaku pelestarian budaya di Provinsi Bali dengan skenario 1 (isian tidak ingat diberi nilai 0) untuk orang tua ketika berumur 11-27 tahun lebih tinggi di hampir semua dimensi dibandingkan Gen Z. Gen Z memiliki skor yang lebih unggul hanya dalam dimensi peninggalan sejarah dan pertunjukkan seni. Pada dimensi permainan rakyat, terdapat gap yang besar antara orang tua (0,76) dan gen Z (0,43). Hal ini dapat disebabkan oleh kemajuan teknologi yang mengakibatkan pergeseran budaya bermain pada gen Z.",
     label: ["Skor GenZ Anak", "Skor GenZ Dewasa", "Skor Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
     isPercentage: true,
     data: [
       [
@@ -2746,7 +2746,7 @@ export const skorData = [
     interpretasi:
       "secara umum rata-rata nilai perilaku pelestarian budaya di Provinsi Bali dengan skenario 1 (isian tidak ingat diberi nilai 0) untuk orang tua ketika berumur 11-27 tahun lebih tinggi di hampir semua dimensi dibandingkan Gen Z. Gen Z memiliki skor yang lebih unggul hanya dalam dimensi peninggalan sejarah dan pertunjukkan seni. Pada dimensi permainan rakyat, terdapat gap yang besar antara orang tua (0,76) dan gen Z (0,43). Hal ini dapat disebabkan oleh kemajuan teknologi yang mengakibatkan pergeseran budaya bermain pada gen Z.",
     label: ["Skor GenZ Anak", "Skor GenZ Dewasa", "Skor Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
     isPercentage: true,
     data: [
       [

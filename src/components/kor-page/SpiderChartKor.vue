@@ -1,18 +1,12 @@
 <template>
-  <ChartLayout
-    :title="
-      dataSpiderChart1[indexDaerah].data[indexVariabel].title +
-      ' ' +
-      dataSpiderChart1[indexDaerah].region
-    "
-  >
+  <ChartLayout :title="allKor2[14][indexDaerah].title">
     <div class="w-full flex flex-col xl:flex-row gap-6">
       <div class="flex-col h-full w-full">
         <!-- Dropdown -->
         <div class="w-full flex gap-4 items-center">
           <!-- Dropdown Daerah -->
           <div
-            class="relative inline-flex justify-between gap-3 p-3 py-1.5 rounded-3xl max-w-[8rem] group hover:bg-stone-100 hover:w-[21rem] hover:border-b-0 hover:rounded-b-none border-primary border-[2.5px] items-center font-medium px-4 text-gray-900 cursor-pointer"
+            class="relative text-xs md:text-sm inline-flex justify-between gap-3 p-3 py-1.5 rounded-3xl max-w-[8rem] group hover:bg-stone-100 hover:w-[21rem] hover:border-b-0 hover:rounded-b-none border-primary border-[2.5px] items-center font-medium px-4 text-gray-900 cursor-pointer"
           >
             <div class="inline-flex items-center text-primary text-md">
               {{ daerahName }}
@@ -46,8 +40,8 @@
             </div>
           </div>
           <!-- Dropdown Variabel -->
-          <div
-            class="relative inline-flex justify-between gap-3 p-3 py-1.5 rounded-3xl max-w-[21rem] group hover:bg-stone-100 hover:w-[21rem] hover:border-b-0 hover:rounded-b-none border-primary border-[2.5px] items-center font-medium px-4 text-gray-900 cursor-pointer"
+          <!-- <div
+            class="relative text-xs md:text-sm inline-flex justify-between gap-3 p-3 py-1.5 rounded-3xl max-w-[21rem] group hover:bg-stone-100 hover:w-[21rem] hover:border-b-0 hover:rounded-b-none border-primary border-[2.5px] items-center font-medium px-4 text-gray-900 cursor-pointer"
           >
             <div class="inline-flex items-center text-primary text-md">
               {{ variabelName }}
@@ -79,7 +73,7 @@
                 </li>
               </ul>
             </div>
-          </div>
+          </div> -->
         </div>
         <!-- Chart -->
         <SpiderChart
@@ -91,17 +85,16 @@
           :selectedKategori="selectedKategori"
           :changeSelectedKategori="changeSelectedKategori"
           :isPercentage="
-            dataSpiderChart1[indexDaerah].data[indexVariabel].isPercentage
+            allKor2[14][indexDaerah].data[indexVariabel].isPercentage
           "
           :title="title"
-          class="mx-auto flex xl:basis-2/3"
+          class="mx-auto lg:mx-0 flex xl:basis-2/3"
         />
         <!-- Checkbox Filter -->
         <div class="w-full flex items-center justify-center gap-4 md:gap-8">
           <div
-            v-for="(item, index) in dataSpiderChart1[indexDaerah].data[
-              indexVariabel
-            ].label"
+            v-for="(item, index) in allKor2[14][indexDaerah]
+              .label"
             :key="item"
           >
             <div class="flex items-center justify-center">
@@ -122,13 +115,13 @@
           </div>
         </div>
       </div>
-      <div class="w-full flex xl:basis-1/3 gap-2 flex-col">
+      <div class="w-full flex xl:basis-3/4 gap-2 flex-col">
         <h2 class="text-xl text-primary font-bold text-center mt-2">
           Interpretasi
         </h2>
         <div class="w-full my-1 h-0.5 bg-primary bg-opacity-50"></div>
         <p class="text-black text-md">
-          {{ dataSpiderChart1[indexDaerah].data[indexVariabel].interpretasi }}
+          {{ allKor2[14][indexDaerah].interpretasi }}
         </p>
       </div>
     </div>
@@ -140,9 +133,9 @@ import { ref, watch } from "vue";
 import ChartLayout from "../charts/ChartLayout.vue";
 import SpiderChart from "../charts/SpiderChart.vue";
 import {
-  dataSpiderChart1,
-  listVariabelSpiderChart1,
+  allKor2,
   listDaerahChart,
+  listVariabelSpiderChart1,
 } from "../../data/kor";
 import UpArrow from "../icons/chart/UpArrow.vue";
 
@@ -154,9 +147,9 @@ export default {
   },
   setup() {
     const title = "spiderchart-kor";
-    const data = ref(dataSpiderChart1[0].data[0].data);
-    const label = ref(dataSpiderChart1[0].data[0].label);
-    const warna = ref(dataSpiderChart1[0].data[0].warna);
+    const data = ref(allKor2[14][0].data);
+    const label = ref(allKor2[14][0].label);
+    const warna = ref(allKor2[14][0].warna);
     const daerahName = ref("Bali");
     const variabelName = ref("Jumlah Pemilih Tetap");
     const indexDaerah = ref(0);
@@ -287,21 +280,9 @@ export default {
         const newLabel = [];
         const newWarna = [];
         indexSelectedKategori.value.forEach((index) => {
-          newData.push(
-            dataSpiderChart1[indexDaerah.value].data[indexVariabel.value].data[
-              index
-            ]
-          );
-          newLabel.push(
-            dataSpiderChart1[indexDaerah.value].data[indexVariabel.value].label[
-              index
-            ]
-          );
-          newWarna.push(
-            dataSpiderChart1[indexDaerah.value].data[indexVariabel.value].warna[
-              index
-            ]
-          );
+          newData.push(allKor2[14][indexDaerah.value].data[index]);
+          newLabel.push(allKor2[14][indexDaerah.value].label[index]);
+          newWarna.push(allKor2[14][indexDaerah.value].warna[index]);
         });
         data.value = newData;
         label.value = newLabel;
@@ -324,7 +305,7 @@ export default {
       changeDaerahName,
       changeVariabelName,
       changeSelectedKategori,
-      dataSpiderChart1,
+      allKor2,
       listVariabelSpiderChart1,
       listDaerahChart,
     };

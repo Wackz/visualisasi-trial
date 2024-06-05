@@ -4,7 +4,7 @@
     <!-- Download Button -->
     <div
       :class="[
-        'w-9 h-9 absolute top-0 right-0 z-20 rounded-full flex justify-center items-center bg-primary hover:bg-secondary group',
+        'w-9 h-9 absolute top-12 md:top-0 right-0 z-20 rounded-full flex justify-center items-center bg-primary hover:bg-secondary group',
         { hidden: data.length === 0 },
       ]"
     >
@@ -110,6 +110,8 @@ export default {
     createChart() {
       d3.select(`#${this.title}`).style("background-color", "transparent");
       d3.select(`#${this.title}`).selectAll("*").remove();
+
+      console.log(this.data);
 
       if (this.data.length === 0) {
         d3.select(`#${this.title}`)
@@ -447,9 +449,7 @@ export default {
           var newY = event.pageY;
           let tooltipHtml = `<strong>Indikator ${
             d.axis
-          }</strong><br/><i>Kategori ${
-            label[d.group]
-          }</i><br/><span style="color:${hexColor[d.group]};">&#9632;</span> ${
+          }</strong><br/><span style="color:${hexColor[d.group]};">&#9632;</span> ${
             d.value
           }`;
           tooltip
@@ -486,7 +486,6 @@ export default {
       const legend = svg
         .append("g")
         .attr("font-size", 12)
-        .attr("font-weight", "bold")
         .attr("text-anchor", "start") // Align text to the start
         .selectAll("g")
         .data(label)
@@ -496,15 +495,15 @@ export default {
           "transform",
           (d, i) =>
             `translate(${
-              svgWidth / 2 - (this.keys.length / 2) * 100 + i * 100
+              svgWidth / 2 - (this.keys.length / 2) * 150 + i * 150
             }, 10)`
         ); // Center the legend horizontally
 
       legend
         .append("rect")
         .attr("x", 0) // Adjust the position of the rectangle
-        .attr("width", 26)
-        .attr("height", 26)
+        .attr("width", 15)
+        .attr("height", 15)
         .attr("fill", (d, i) => color(i)) // Use the color function to assign colors
         .attr("fill-opacity", 0.5) // Add fill-opacity
         .attr("stroke", (d, i) => color(i)) // Use the color function for the stroke color

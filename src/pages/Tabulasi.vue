@@ -26,7 +26,7 @@ watch([dataTerpilih, wilayahTerpilih], () => {
 </script>
 
 <template>
-  <div class="min-h-[90vh] flex flex-col justify-start">
+  <div class="min-h-[90vh] flex flex-col justify-start xl:justify-center">
     <h1
       class="text-primary text-3xl md:text-4xl lg:text-5xl font-bold md:mt-12"
     >
@@ -41,7 +41,7 @@ watch([dataTerpilih, wilayahTerpilih], () => {
         <select
           name="data"
           id="data"
-          class="w-full border-2 border-primary bg-white rounded-xl focus:border-primary focus:ring-primary py-1 px-2"
+          class="w-full border-2 border-primary bg-stone-50 rounded-xl focus:border-primary focus:ring-primary py-1 px-2"
           v-model="dataTerpilih"
         >
           <option
@@ -58,7 +58,7 @@ watch([dataTerpilih, wilayahTerpilih], () => {
         <select
           name="wilayah"
           id="wilayah"
-          class="w-full border-2 border-primary bg-white rounded-xl focus:border-primary focus:ring-primary py-1 px-2"
+          class="w-full border-2 border-primary bg-stone-50 rounded-xl focus:border-primary focus:ring-primary py-1 px-2"
           v-model="wilayahTerpilih"
         >
           <option v-for="(item, index) in kab" :key="index" :value="index">

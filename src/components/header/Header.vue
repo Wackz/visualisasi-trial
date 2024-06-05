@@ -1,6 +1,8 @@
 <script setup>
 import { ref, onMounted, onBeforeUnmount } from "vue";
 import { RouterLink } from "vue-router";
+import Close from "../icons/shape/Close.vue";
+import MenuBar from "../icons/shape/MenuBar.vue";
 
 // Membuat ref untuk menandai apakah dropdown mobile terbuka atau tidak
 const isMobileDropdownOpen = ref(false);
@@ -36,7 +38,9 @@ onBeforeUnmount(() => {
 </script>
 
 <template>
-  <header class="bg-primary font-poppins sticky top-0 w-full z-40 bg-opacity-95 py-2">
+  <header
+    class="bg-primary font-poppins sticky top-0 w-full z-40 bg-opacity-95 py-2"
+  >
     <div class="flex h-16 justify-between items-center px-3">
       <!-- Bagian logo dan judul halaman -->
       <div class="lg:ml-10 flex w-60 items-center md:justify-around">
@@ -59,25 +63,15 @@ onBeforeUnmount(() => {
           class="transition-transform duration-300 transform hover:scale-110"
           aria-label="hamburger menu"
         >
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            width="42"
-            height="42"
-            viewBox="0 0 24 24"
-            class="text-amber-400 lg:hidden block"
-          >
-            <path
-              fill="currentColor"
-              d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"
-            />
-          </svg>
+          <Close v-if="isMobileDropdownOpen" />
+          <MenuBar v-else />
         </button>
         <!-- Dropdown mobile -->
         <transition name="fade">
           <div
             :class="[
               'lg:hidden fixed top-0 left-0 w-full h-max -translate-y-full transition-transform duration-300 opacity-0',
-              isMobileDropdownOpen && 'translate-y-0 top-16 opacity-100',
+              isMobileDropdownOpen && 'translate-y-0 top-20 opacity-100',
             ]"
           >
             <div class="flex flex-col items-center">
