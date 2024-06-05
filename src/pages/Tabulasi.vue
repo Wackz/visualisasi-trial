@@ -28,7 +28,7 @@ watch([dataTerpilih, wilayahTerpilih], () => {
 <template>
   <div class="min-h-[90vh] flex flex-col justify-start xl:justify-center">
     <h1
-      class="text-primary text-3xl md:text-4xl lg:text-5xl font-bold md:mt-12"
+      class="text-primary text-3xl md:text-4xl lg:text-5xl font-bold md:mt-12 xl:mt-0"
     >
       Tabulasi
     </h1>
