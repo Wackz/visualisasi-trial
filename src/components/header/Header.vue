@@ -45,7 +45,7 @@ onBeforeUnmount(() => {
       <!-- Bagian logo dan judul halaman -->
       <div class="lg:ml-10 flex w-60 items-center md:justify-around">
         <img
-          src="/image/Lambang_Politeknik_Statistika_STIS.png"
+          src="/Logo PKL.png"
           alt="logo"
           width="45"
           height="45"
