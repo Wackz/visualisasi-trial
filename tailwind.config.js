@@ -22,6 +22,10 @@ export default {
           200: "#FBE47E",
           400: "#FFC837",
         },
+        white: "#ffffff",
+      },
+      backgroundImage: {
+        "main-pattern": "url('/backgrounds/base_background.png')",
       },
     },
   },
