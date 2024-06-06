@@ -126,8 +126,8 @@ export const groupBarChart1 = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "0 buah", value: 3.4 },
@@ -157,8 +157,8 @@ export const groupBarChart1 = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "0 buah", value: 3.4 },
@@ -188,8 +188,8 @@ export const groupBarChart1 = [
     interpretasi:
       "Data mengenai jumlah tempat pemungutan suara (TPS)Provinsi DKI Jakarta menunjukkan variasi yang signifikanantara wilayah-wilayah yang berbeda.Jakarta Barat, terdapat 527 TPS untuk pemilih laki-laki dan 258 TPS untuk pemilih perempuan, menunjukkan konsentrasi yang lebih tinggi untuk pemilih laki-laki. 1-5 buah memiliki 502 TPS untuk laki-laki dan 339 TPS untuk perempuan, sedangkan 6-10 buah mencatat jumlah tertinggi dengan 561 TPS untuk laki-laki dan 226 TPS untuk perempuan.11-15 buah, terdapat 557 TPS untuk laki-laki dan 257 TPS untuk perempuan, sementara>= 16 buah terdapat 556 TPS untuk laki-laki dan 250 TPS untuk perempuan. Kepulauan Seribu menunjukkan pola yang serupa dengan 541 TPS untuk laki-laki dan 269 TPS untuk perempuan. Data ini mengindikasikan bahwa jumlah TPS cenderung lebih banyak dialokasikan untuk pemilih laki-lakihampir semua wilayah, dengan 6-10 buah memiliki jumlah TPS tertinggi untuk laki-laki dan 1-5 buah menunjukkan distribusi yang lebih seimbang antara laki-laki dan perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "0 buah", value: 3.4 },
@@ -226,8 +226,8 @@ export const dataGroupBarChart1 = [
         interpretasi:
           "Data mengenai jumlah pemilih tetap berdasarkan jenis kelamin  menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
         label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-        warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-        isPercentage: true,
+        warna: ["#FFC837", "#6497B1", "#FA8295"],
+        isPercentage: false,
         data: [
           [
             { label: "0 buah", value: 3.4 },
@@ -257,8 +257,8 @@ export const dataGroupBarChart1 = [
         interpretasi:
           "Data mengenai jumlah pemilih tetap berdasarkan jenis kelamin  menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
         label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-        warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-        isPercentage: true,
+        warna: ["#FFC837", "#6497B1", "#FA8295"],
+        isPercentage: false,
         data: [
           [
             { label: "0 buah", value: 3.4 },
@@ -288,8 +288,8 @@ export const dataGroupBarChart1 = [
         interpretasi:
           "Data mengenai jumlah tempat pemungutan suara (TPS)  menunjukkan variasi yang signifikanantara wilayah-wilayah yang berbeda.Jakarta Barat, terdapat 527 TPS untuk pemilih laki-laki dan 258 TPS untuk pemilih perempuan, menunjukkan konsentrasi yang lebih tinggi untuk pemilih laki-laki. 1-5 buah memiliki 502 TPS untuk laki-laki dan 339 TPS untuk perempuan, sedangkan 6-10 buah mencatat jumlah tertinggi dengan 561 TPS untuk laki-laki dan 226 TPS untuk perempuan.11-15 buah, terdapat 557 TPS untuk laki-laki dan 257 TPS untuk perempuan, sementara>= 16 buah terdapat 556 TPS untuk laki-laki dan 250 TPS untuk perempuan. Kepulauan Seribu menunjukkan pola yang serupa dengan 541 TPS untuk laki-laki dan 269 TPS untuk perempuan. Data ini mengindikasikan bahwa jumlah TPS cenderung lebih banyak dialokasikan untuk pemilih laki-lakihampir semua wilayah, dengan 6-10 buah memiliki jumlah TPS tertinggi untuk laki-laki dan 1-5 buah menunjukkan distribusi yang lebih seimbang antara laki-laki dan perempuan.",
         label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-        warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-        isPercentage: true,
+        warna: ["#FFC837", "#6497B1", "#FA8295"],
+        isPercentage: false,
         data: [
           [
             { label: "0 buah", value: 3.4 },
@@ -325,8 +325,8 @@ export const dataGroupBarChart1 = [
         interpretasi:
           "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
         label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-        warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-        isPercentage: true,
+        warna: ["#FFC837", "#6497B1", "#FA8295"],
+        isPercentage: false,
         data: [
           [
             { label: "0 buah", value: 3.4 },
@@ -356,8 +356,8 @@ export const dataGroupBarChart1 = [
         interpretasi:
           "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
         label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-        warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-        isPercentage: true,
+        warna: ["#FFC837", "#6497B1", "#FA8295"],
+        isPercentage: false,
         data: [
           [
             { label: "0 buah", value: 3.4 },
@@ -387,8 +387,8 @@ export const dataGroupBarChart1 = [
         interpretasi:
           "Data mengenai jumlah tempat pemungutan suara (TPS)Provinsi DKI Jakarta menunjukkan variasi yang signifikanantara wilayah-wilayah yang berbeda.Jakarta Barat, terdapat 527 TPS untuk pemilih laki-laki dan 258 TPS untuk pemilih perempuan, menunjukkan konsentrasi yang lebih tinggi untuk pemilih laki-laki. 1-5 buah memiliki 502 TPS untuk laki-laki dan 339 TPS untuk perempuan, sedangkan 6-10 buah mencatat jumlah tertinggi dengan 561 TPS untuk laki-laki dan 226 TPS untuk perempuan.11-15 buah, terdapat 557 TPS untuk laki-laki dan 257 TPS untuk perempuan, sementara>= 16 buah terdapat 556 TPS untuk laki-laki dan 250 TPS untuk perempuan. Kepulauan Seribu menunjukkan pola yang serupa dengan 541 TPS untuk laki-laki dan 269 TPS untuk perempuan. Data ini mengindikasikan bahwa jumlah TPS cenderung lebih banyak dialokasikan untuk pemilih laki-lakihampir semua wilayah, dengan 6-10 buah memiliki jumlah TPS tertinggi untuk laki-laki dan 1-5 buah menunjukkan distribusi yang lebih seimbang antara laki-laki dan perempuan.",
         label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-        warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-        isPercentage: true,
+        warna: ["#FFC837", "#6497B1", "#FA8295"],
+        isPercentage: false,
         data: [
           [
             { label: "0 buah", value: 3.4 },
@@ -424,8 +424,8 @@ export const dataGroupBarChart1 = [
         interpretasi:
           "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
         label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-        warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-        isPercentage: true,
+        warna: ["#FFC837", "#6497B1", "#FA8295"],
+        isPercentage: false,
         data: [
           [
             { label: "0 buah", value: 3.4 },
@@ -455,8 +455,8 @@ export const dataGroupBarChart1 = [
         interpretasi:
           "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
         label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-        warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-        isPercentage: true,
+        warna: ["#FFC837", "#6497B1", "#FA8295"],
+        isPercentage: false,
         data: [
           [
             { label: "0 buah", value: 3.4 },
@@ -486,8 +486,8 @@ export const dataGroupBarChart1 = [
         interpretasi:
           "Data mengenai jumlah tempat pemungutan suara (TPS)Provinsi DKI Jakarta menunjukkan variasi yang signifikanantara wilayah-wilayah yang berbeda.Jakarta Barat, terdapat 527 TPS untuk pemilih laki-laki dan 258 TPS untuk pemilih perempuan, menunjukkan konsentrasi yang lebih tinggi untuk pemilih laki-laki. 1-5 buah memiliki 502 TPS untuk laki-laki dan 339 TPS untuk perempuan, sedangkan 6-10 buah mencatat jumlah tertinggi dengan 561 TPS untuk laki-laki dan 226 TPS untuk perempuan.11-15 buah, terdapat 557 TPS untuk laki-laki dan 257 TPS untuk perempuan, sementara>= 16 buah terdapat 556 TPS untuk laki-laki dan 250 TPS untuk perempuan. Kepulauan Seribu menunjukkan pola yang serupa dengan 541 TPS untuk laki-laki dan 269 TPS untuk perempuan. Data ini mengindikasikan bahwa jumlah TPS cenderung lebih banyak dialokasikan untuk pemilih laki-lakihampir semua wilayah, dengan 6-10 buah memiliki jumlah TPS tertinggi untuk laki-laki dan 1-5 buah menunjukkan distribusi yang lebih seimbang antara laki-laki dan perempuan.",
         label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-        warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-        isPercentage: true,
+        warna: ["#FFC837", "#6497B1", "#FA8295"],
+        isPercentage: false,
         data: [
           [
             { label: "0 buah", value: 3.4 },
@@ -523,8 +523,8 @@ export const dataGroupBarChart1 = [
         interpretasi:
           "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
         label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-        warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-        isPercentage: true,
+        warna: ["#FFC837", "#6497B1", "#FA8295"],
+        isPercentage: false,
         data: [
           [
             { label: "0 buah", value: 3.4 },
@@ -554,8 +554,8 @@ export const dataGroupBarChart1 = [
         interpretasi:
           "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
         label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-        warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-        isPercentage: true,
+        warna: ["#FFC837", "#6497B1", "#FA8295"],
+        isPercentage: false,
         data: [
           [
             { label: "0 buah", value: 3.4 },
@@ -585,8 +585,8 @@ export const dataGroupBarChart1 = [
         interpretasi:
           "Data mengenai jumlah tempat pemungutan suara (TPS)Provinsi DKI Jakarta menunjukkan variasi yang signifikanantara wilayah-wilayah yang berbeda.Jakarta Barat, terdapat 527 TPS untuk pemilih laki-laki dan 258 TPS untuk pemilih perempuan, menunjukkan konsentrasi yang lebih tinggi untuk pemilih laki-laki. 1-5 buah memiliki 502 TPS untuk laki-laki dan 339 TPS untuk perempuan, sedangkan 6-10 buah mencatat jumlah tertinggi dengan 561 TPS untuk laki-laki dan 226 TPS untuk perempuan.11-15 buah, terdapat 557 TPS untuk laki-laki dan 257 TPS untuk perempuan, sementara>= 16 buah terdapat 556 TPS untuk laki-laki dan 250 TPS untuk perempuan. Kepulauan Seribu menunjukkan pola yang serupa dengan 541 TPS untuk laki-laki dan 269 TPS untuk perempuan. Data ini mengindikasikan bahwa jumlah TPS cenderung lebih banyak dialokasikan untuk pemilih laki-lakihampir semua wilayah, dengan 6-10 buah memiliki jumlah TPS tertinggi untuk laki-laki dan 1-5 buah menunjukkan distribusi yang lebih seimbang antara laki-laki dan perempuan.",
         label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-        warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-        isPercentage: true,
+        warna: ["#FFC837", "#6497B1", "#FA8295"],
+        isPercentage: false,
         data: [
           [
             { label: "0 buah", value: 3.4 },
@@ -622,8 +622,8 @@ export const dataGroupBarChart1 = [
         interpretasi:
           "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
         label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-        warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-        isPercentage: true,
+        warna: ["#FFC837", "#6497B1", "#FA8295"],
+        isPercentage: false,
         data: [
           [
             { label: "0 buah", value: 3.4 },
@@ -653,8 +653,8 @@ export const dataGroupBarChart1 = [
         interpretasi:
           "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
         label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-        warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-        isPercentage: true,
+        warna: ["#FFC837", "#6497B1", "#FA8295"],
+        isPercentage: false,
         data: [
           [
             { label: "0 buah", value: 3.4 },
@@ -684,8 +684,8 @@ export const dataGroupBarChart1 = [
         interpretasi:
           "Data mengenai jumlah tempat pemungutan suara (TPS)Provinsi DKI Jakarta menunjukkan variasi yang signifikanantara wilayah-wilayah yang berbeda.Jakarta Barat, terdapat 527 TPS untuk pemilih laki-laki dan 258 TPS untuk pemilih perempuan, menunjukkan konsentrasi yang lebih tinggi untuk pemilih laki-laki. 1-5 buah memiliki 502 TPS untuk laki-laki dan 339 TPS untuk perempuan, sedangkan 6-10 buah mencatat jumlah tertinggi dengan 561 TPS untuk laki-laki dan 226 TPS untuk perempuan.11-15 buah, terdapat 557 TPS untuk laki-laki dan 257 TPS untuk perempuan, sementara>= 16 buah terdapat 556 TPS untuk laki-laki dan 250 TPS untuk perempuan. Kepulauan Seribu menunjukkan pola yang serupa dengan 541 TPS untuk laki-laki dan 269 TPS untuk perempuan. Data ini mengindikasikan bahwa jumlah TPS cenderung lebih banyak dialokasikan untuk pemilih laki-lakihampir semua wilayah, dengan 6-10 buah memiliki jumlah TPS tertinggi untuk laki-laki dan 1-5 buah menunjukkan distribusi yang lebih seimbang antara laki-laki dan perempuan.",
         label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-        warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-        isPercentage: true,
+        warna: ["#FFC837", "#6497B1", "#FA8295"],
+        isPercentage: false,
         data: [
           [
             { label: "0 buah", value: 3.4 },
@@ -721,8 +721,8 @@ export const dataGroupBarChart1 = [
         interpretasi:
           "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
         label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-        warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-        isPercentage: true,
+        warna: ["#FFC837", "#6497B1", "#FA8295"],
+        isPercentage: false,
         data: [
           [
             { label: "0 buah", value: 3.4 },
@@ -752,8 +752,8 @@ export const dataGroupBarChart1 = [
         interpretasi:
           "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
         label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-        warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-        isPercentage: true,
+        warna: ["#FFC837", "#6497B1", "#FA8295"],
+        isPercentage: false,
         data: [
           [
             { label: "0 buah", value: 3.4 },
@@ -783,8 +783,8 @@ export const dataGroupBarChart1 = [
         interpretasi:
           "Data mengenai jumlah tempat pemungutan suara (TPS)Provinsi DKI Jakarta menunjukkan variasi yang signifikanantara wilayah-wilayah yang berbeda.Jakarta Barat, terdapat 527 TPS untuk pemilih laki-laki dan 258 TPS untuk pemilih perempuan, menunjukkan konsentrasi yang lebih tinggi untuk pemilih laki-laki. 1-5 buah memiliki 502 TPS untuk laki-laki dan 339 TPS untuk perempuan, sedangkan 6-10 buah mencatat jumlah tertinggi dengan 561 TPS untuk laki-laki dan 226 TPS untuk perempuan.11-15 buah, terdapat 557 TPS untuk laki-laki dan 257 TPS untuk perempuan, sementara>= 16 buah terdapat 556 TPS untuk laki-laki dan 250 TPS untuk perempuan. Kepulauan Seribu menunjukkan pola yang serupa dengan 541 TPS untuk laki-laki dan 269 TPS untuk perempuan. Data ini mengindikasikan bahwa jumlah TPS cenderung lebih banyak dialokasikan untuk pemilih laki-lakihampir semua wilayah, dengan 6-10 buah memiliki jumlah TPS tertinggi untuk laki-laki dan 1-5 buah menunjukkan distribusi yang lebih seimbang antara laki-laki dan perempuan.",
         label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-        warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-        isPercentage: true,
+        warna: ["#FFC837", "#6497B1", "#FA8295"],
+        isPercentage: false,
         data: [
           [
             { label: "0 buah", value: 3.4 },
@@ -820,8 +820,8 @@ export const dataGroupBarChart1 = [
         interpretasi:
           "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
         label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-        warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-        isPercentage: true,
+        warna: ["#FFC837", "#6497B1", "#FA8295"],
+        isPercentage: false,
         data: [
           [
             { label: "0 buah", value: 3.4 },
@@ -851,8 +851,8 @@ export const dataGroupBarChart1 = [
         interpretasi:
           "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
         label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-        warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-        isPercentage: true,
+        warna: ["#FFC837", "#6497B1", "#FA8295"],
+        isPercentage: false,
         data: [
           [
             { label: "0 buah", value: 3.4 },
@@ -882,8 +882,8 @@ export const dataGroupBarChart1 = [
         interpretasi:
           "Data mengenai jumlah tempat pemungutan suara (TPS)Provinsi DKI Jakarta menunjukkan variasi yang signifikanantara wilayah-wilayah yang berbeda.Jakarta Barat, terdapat 527 TPS untuk pemilih laki-laki dan 258 TPS untuk pemilih perempuan, menunjukkan konsentrasi yang lebih tinggi untuk pemilih laki-laki. 1-5 buah memiliki 502 TPS untuk laki-laki dan 339 TPS untuk perempuan, sedangkan 6-10 buah mencatat jumlah tertinggi dengan 561 TPS untuk laki-laki dan 226 TPS untuk perempuan.11-15 buah, terdapat 557 TPS untuk laki-laki dan 257 TPS untuk perempuan, sementara>= 16 buah terdapat 556 TPS untuk laki-laki dan 250 TPS untuk perempuan. Kepulauan Seribu menunjukkan pola yang serupa dengan 541 TPS untuk laki-laki dan 269 TPS untuk perempuan. Data ini mengindikasikan bahwa jumlah TPS cenderung lebih banyak dialokasikan untuk pemilih laki-lakihampir semua wilayah, dengan 6-10 buah memiliki jumlah TPS tertinggi untuk laki-laki dan 1-5 buah menunjukkan distribusi yang lebih seimbang antara laki-laki dan perempuan.",
         label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-        warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-        isPercentage: true,
+        warna: ["#FFC837", "#6497B1", "#FA8295"],
+        isPercentage: false,
         data: [
           [
             { label: "0 buah", value: 3.4 },
@@ -919,8 +919,8 @@ export const dataGroupBarChart1 = [
         interpretasi:
           "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
         label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-        warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-        isPercentage: true,
+        warna: ["#FFC837", "#6497B1", "#FA8295"],
+        isPercentage: false,
         data: [
           [
             { label: "0 buah", value: 3.4 },
@@ -950,8 +950,8 @@ export const dataGroupBarChart1 = [
         interpretasi:
           "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
         label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-        warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-        isPercentage: true,
+        warna: ["#FFC837", "#6497B1", "#FA8295"],
+        isPercentage: false,
         data: [
           [
             { label: "0 buah", value: 3.4 },
@@ -981,8 +981,8 @@ export const dataGroupBarChart1 = [
         interpretasi:
           "Data mengenai jumlah tempat pemungutan suara (TPS)Provinsi DKI Jakarta menunjukkan variasi yang signifikanantara wilayah-wilayah yang berbeda.Jakarta Barat, terdapat 527 TPS untuk pemilih laki-laki dan 258 TPS untuk pemilih perempuan, menunjukkan konsentrasi yang lebih tinggi untuk pemilih laki-laki. 1-5 buah memiliki 502 TPS untuk laki-laki dan 339 TPS untuk perempuan, sedangkan 6-10 buah mencatat jumlah tertinggi dengan 561 TPS untuk laki-laki dan 226 TPS untuk perempuan.11-15 buah, terdapat 557 TPS untuk laki-laki dan 257 TPS untuk perempuan, sementara>= 16 buah terdapat 556 TPS untuk laki-laki dan 250 TPS untuk perempuan. Kepulauan Seribu menunjukkan pola yang serupa dengan 541 TPS untuk laki-laki dan 269 TPS untuk perempuan. Data ini mengindikasikan bahwa jumlah TPS cenderung lebih banyak dialokasikan untuk pemilih laki-lakihampir semua wilayah, dengan 6-10 buah memiliki jumlah TPS tertinggi untuk laki-laki dan 1-5 buah menunjukkan distribusi yang lebih seimbang antara laki-laki dan perempuan.",
         label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-        warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-        isPercentage: true,
+        warna: ["#FFC837", "#6497B1", "#FA8295"],
+        isPercentage: false,
         data: [
           [
             { label: "0 buah", value: 3.4 },
@@ -1018,8 +1018,8 @@ export const dataGroupBarChart1 = [
         interpretasi:
           "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
         label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-        warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-        isPercentage: true,
+        warna: ["#FFC837", "#6497B1", "#FA8295"],
+        isPercentage: false,
         data: [
           [
             { label: "0 buah", value: 3.4 },
@@ -1049,8 +1049,8 @@ export const dataGroupBarChart1 = [
         interpretasi:
           "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
         label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-        warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-        isPercentage: true,
+        warna: ["#FFC837", "#6497B1", "#FA8295"],
+        isPercentage: false,
         data: [
           [
             { label: "0 buah", value: 3.4 },
@@ -1080,8 +1080,8 @@ export const dataGroupBarChart1 = [
         interpretasi:
           "Data mengenai jumlah tempat pemungutan suara (TPS)Provinsi DKI Jakarta menunjukkan variasi yang signifikanantara wilayah-wilayah yang berbeda.Jakarta Barat, terdapat 527 TPS untuk pemilih laki-laki dan 258 TPS untuk pemilih perempuan, menunjukkan konsentrasi yang lebih tinggi untuk pemilih laki-laki. 1-5 buah memiliki 502 TPS untuk laki-laki dan 339 TPS untuk perempuan, sedangkan 6-10 buah mencatat jumlah tertinggi dengan 561 TPS untuk laki-laki dan 226 TPS untuk perempuan.11-15 buah, terdapat 557 TPS untuk laki-laki dan 257 TPS untuk perempuan, sementara>= 16 buah terdapat 556 TPS untuk laki-laki dan 250 TPS untuk perempuan. Kepulauan Seribu menunjukkan pola yang serupa dengan 541 TPS untuk laki-laki dan 269 TPS untuk perempuan. Data ini mengindikasikan bahwa jumlah TPS cenderung lebih banyak dialokasikan untuk pemilih laki-lakihampir semua wilayah, dengan 6-10 buah memiliki jumlah TPS tertinggi untuk laki-laki dan 1-5 buah menunjukkan distribusi yang lebih seimbang antara laki-laki dan perempuan.",
         label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-        warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-        isPercentage: true,
+        warna: ["#FFC837", "#6497B1", "#FA8295"],
+        isPercentage: false,
         data: [
           [
             { label: "0 buah", value: 3.4 },
@@ -1117,8 +1117,8 @@ export const dataGroupBarChart1 = [
         interpretasi:
           "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
         label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-        warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-        isPercentage: true,
+        warna: ["#FFC837", "#6497B1", "#FA8295"],
+        isPercentage: false,
         data: [
           [
             { label: "0 buah", value: 3.4 },
@@ -1148,8 +1148,8 @@ export const dataGroupBarChart1 = [
         interpretasi:
           "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
         label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-        warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-        isPercentage: true,
+        warna: ["#FFC837", "#6497B1", "#FA8295"],
+        isPercentage: false,
         data: [
           [
             { label: "0 buah", value: 3.4 },
@@ -1179,8 +1179,8 @@ export const dataGroupBarChart1 = [
         interpretasi:
           "Data mengenai jumlah tempat pemungutan suara (TPS)Provinsi DKI Jakarta menunjukkan variasi yang signifikanantara wilayah-wilayah yang berbeda.Jakarta Barat, terdapat 527 TPS untuk pemilih laki-laki dan 258 TPS untuk pemilih perempuan, menunjukkan konsentrasi yang lebih tinggi untuk pemilih laki-laki. 1-5 buah memiliki 502 TPS untuk laki-laki dan 339 TPS untuk perempuan, sedangkan 6-10 buah mencatat jumlah tertinggi dengan 561 TPS untuk laki-laki dan 226 TPS untuk perempuan.11-15 buah, terdapat 557 TPS untuk laki-laki dan 257 TPS untuk perempuan, sementara>= 16 buah terdapat 556 TPS untuk laki-laki dan 250 TPS untuk perempuan. Kepulauan Seribu menunjukkan pola yang serupa dengan 541 TPS untuk laki-laki dan 269 TPS untuk perempuan. Data ini mengindikasikan bahwa jumlah TPS cenderung lebih banyak dialokasikan untuk pemilih laki-lakihampir semua wilayah, dengan 6-10 buah memiliki jumlah TPS tertinggi untuk laki-laki dan 1-5 buah menunjukkan distribusi yang lebih seimbang antara laki-laki dan perempuan.",
         label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-        warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-        isPercentage: true,
+        warna: ["#FFC837", "#6497B1", "#FA8295"],
+        isPercentage: false,
         data: [
           [
             { label: "0 buah", value: 3.4 },
@@ -2414,7 +2414,7 @@ export const skorData = [
       "secara umum rata-rata nilai perilaku pelestarian budaya di Provinsi Bali dengan skenario 1 (isian tidak ingat diberi nilai 0) untuk orang tua ketika berumur 11-27 tahun lebih tinggi di hampir semua dimensi dibandingkan Gen Z. Gen Z memiliki skor yang lebih unggul hanya dalam dimensi peninggalan sejarah dan pertunjukkan seni. Pada dimensi permainan rakyat, terdapat gap yang besar antara orang tua (0,76) dan gen Z (0,43). Hal ini dapat disebabkan oleh kemajuan teknologi yang mengakibatkan pergeseran budaya bermain pada gen Z.",
     label: ["Skor GenZ Anak", "Skor GenZ Dewasa", "Skor Orang Tua"],
     warna: ["#FFC837", "#6497B1", "#FA8295"],
-    isPercentage: true,
+    isPercentage: false,
     data: [
       [
         { axis: "Pertunjukan Seni", value: 0.131 },
@@ -2451,7 +2451,7 @@ export const skorData = [
       "secara umum rata-rata nilai perilaku pelestarian budaya di Provinsi Bali dengan skenario 1 (isian tidak ingat diberi nilai 0) untuk orang tua ketika berumur 11-27 tahun lebih tinggi di hampir semua dimensi dibandingkan Gen Z. Gen Z memiliki skor yang lebih unggul hanya dalam dimensi peninggalan sejarah dan pertunjukkan seni. Pada dimensi permainan rakyat, terdapat gap yang besar antara orang tua (0,76) dan gen Z (0,43). Hal ini dapat disebabkan oleh kemajuan teknologi yang mengakibatkan pergeseran budaya bermain pada gen Z.",
     label: ["Skor GenZ Anak", "Skor GenZ Dewasa", "Skor Orang Tua"],
     warna: ["#FFC837", "#6497B1", "#FA8295"],
-    isPercentage: true,
+    isPercentage: false,
     data: [
       [
         { axis: "Pertunjukan Seni", value: 0.143 },
@@ -2488,7 +2488,7 @@ export const skorData = [
       "secara umum rata-rata nilai perilaku pelestarian budaya di Provinsi Bali dengan skenario 1 (isian tidak ingat diberi nilai 0) untuk orang tua ketika berumur 11-27 tahun lebih tinggi di hampir semua dimensi dibandingkan Gen Z. Gen Z memiliki skor yang lebih unggul hanya dalam dimensi peninggalan sejarah dan pertunjukkan seni. Pada dimensi permainan rakyat, terdapat gap yang besar antara orang tua (0,76) dan gen Z (0,43). Hal ini dapat disebabkan oleh kemajuan teknologi yang mengakibatkan pergeseran budaya bermain pada gen Z.",
     label: ["Skor GenZ Anak", "Skor GenZ Dewasa", "Skor Orang Tua"],
     warna: ["#FFC837", "#6497B1", "#FA8295"],
-    isPercentage: true,
+    isPercentage: false,
     data: [
       [
         { axis: "Pertunjukan Seni", value: 0.171 },
@@ -2525,7 +2525,7 @@ export const skorData = [
       "secara umum rata-rata nilai perilaku pelestarian budaya di Provinsi Bali dengan skenario 1 (isian tidak ingat diberi nilai 0) untuk orang tua ketika berumur 11-27 tahun lebih tinggi di hampir semua dimensi dibandingkan Gen Z. Gen Z memiliki skor yang lebih unggul hanya dalam dimensi peninggalan sejarah dan pertunjukkan seni. Pada dimensi permainan rakyat, terdapat gap yang besar antara orang tua (0,76) dan gen Z (0,43). Hal ini dapat disebabkan oleh kemajuan teknologi yang mengakibatkan pergeseran budaya bermain pada gen Z.",
     label: ["Skor GenZ Anak", "Skor GenZ Dewasa", "Skor Orang Tua"],
     warna: ["#FFC837", "#6497B1", "#FA8295"],
-    isPercentage: true,
+    isPercentage: false,
     data: [
       [
         { axis: "Pertunjukan Seni", value: 0.106 },
@@ -2562,7 +2562,7 @@ export const skorData = [
       "secara umum rata-rata nilai perilaku pelestarian budaya di Provinsi Bali dengan skenario 1 (isian tidak ingat diberi nilai 0) untuk orang tua ketika berumur 11-27 tahun lebih tinggi di hampir semua dimensi dibandingkan Gen Z. Gen Z memiliki skor yang lebih unggul hanya dalam dimensi peninggalan sejarah dan pertunjukkan seni. Pada dimensi permainan rakyat, terdapat gap yang besar antara orang tua (0,76) dan gen Z (0,43). Hal ini dapat disebabkan oleh kemajuan teknologi yang mengakibatkan pergeseran budaya bermain pada gen Z.",
     label: ["Skor GenZ Anak", "Skor GenZ Dewasa", "Skor Orang Tua"],
     warna: ["#FFC837", "#6497B1", "#FA8295"],
-    isPercentage: true,
+    isPercentage: false,
     data: [
       [
         { axis: "Pertunjukan Seni", value: 0.122 },
@@ -2599,7 +2599,7 @@ export const skorData = [
       "secara umum rata-rata nilai perilaku pelestarian budaya di Provinsi Bali dengan skenario 1 (isian tidak ingat diberi nilai 0) untuk orang tua ketika berumur 11-27 tahun lebih tinggi di hampir semua dimensi dibandingkan Gen Z. Gen Z memiliki skor yang lebih unggul hanya dalam dimensi peninggalan sejarah dan pertunjukkan seni. Pada dimensi permainan rakyat, terdapat gap yang besar antara orang tua (0,76) dan gen Z (0,43). Hal ini dapat disebabkan oleh kemajuan teknologi yang mengakibatkan pergeseran budaya bermain pada gen Z.",
     label: ["Skor GenZ Anak", "Skor GenZ Dewasa", "Skor Orang Tua"],
     warna: ["#FFC837", "#6497B1", "#FA8295"],
-    isPercentage: true,
+    isPercentage: false,
     data: [
       [
         { axis: "Pertunjukan Seni", value: 0.156 },
@@ -2636,7 +2636,7 @@ export const skorData = [
       "secara umum rata-rata nilai perilaku pelestarian budaya di Provinsi Bali dengan skenario 1 (isian tidak ingat diberi nilai 0) untuk orang tua ketika berumur 11-27 tahun lebih tinggi di hampir semua dimensi dibandingkan Gen Z. Gen Z memiliki skor yang lebih unggul hanya dalam dimensi peninggalan sejarah dan pertunjukkan seni. Pada dimensi permainan rakyat, terdapat gap yang besar antara orang tua (0,76) dan gen Z (0,43). Hal ini dapat disebabkan oleh kemajuan teknologi yang mengakibatkan pergeseran budaya bermain pada gen Z.",
     label: ["Skor GenZ Anak", "Skor GenZ Dewasa", "Skor Orang Tua"],
     warna: ["#FFC837", "#6497B1", "#FA8295"],
-    isPercentage: true,
+    isPercentage: false,
     data: [
       [
         { axis: "Pertunjukan Seni", value: 0.1 },
@@ -2673,7 +2673,7 @@ export const skorData = [
       "secara umum rata-rata nilai perilaku pelestarian budaya di Provinsi Bali dengan skenario 1 (isian tidak ingat diberi nilai 0) untuk orang tua ketika berumur 11-27 tahun lebih tinggi di hampir semua dimensi dibandingkan Gen Z. Gen Z memiliki skor yang lebih unggul hanya dalam dimensi peninggalan sejarah dan pertunjukkan seni. Pada dimensi permainan rakyat, terdapat gap yang besar antara orang tua (0,76) dan gen Z (0,43). Hal ini dapat disebabkan oleh kemajuan teknologi yang mengakibatkan pergeseran budaya bermain pada gen Z.",
     label: ["Skor GenZ Anak", "Skor GenZ Dewasa", "Skor Orang Tua"],
     warna: ["#FFC837", "#6497B1", "#FA8295"],
-    isPercentage: true,
+    isPercentage: false,
     data: [
       [
         { axis: "Pertunjukan Seni", value: 0.108 },
@@ -2710,7 +2710,7 @@ export const skorData = [
       "secara umum rata-rata nilai perilaku pelestarian budaya di Provinsi Bali dengan skenario 1 (isian tidak ingat diberi nilai 0) untuk orang tua ketika berumur 11-27 tahun lebih tinggi di hampir semua dimensi dibandingkan Gen Z. Gen Z memiliki skor yang lebih unggul hanya dalam dimensi peninggalan sejarah dan pertunjukkan seni. Pada dimensi permainan rakyat, terdapat gap yang besar antara orang tua (0,76) dan gen Z (0,43). Hal ini dapat disebabkan oleh kemajuan teknologi yang mengakibatkan pergeseran budaya bermain pada gen Z.",
     label: ["Skor GenZ Anak", "Skor GenZ Dewasa", "Skor Orang Tua"],
     warna: ["#FFC837", "#6497B1", "#FA8295"],
-    isPercentage: true,
+    isPercentage: false,
     data: [
       [
         { axis: "Pertunjukan Seni", value: 0.126 },
@@ -2747,7 +2747,7 @@ export const skorData = [
       "secara umum rata-rata nilai perilaku pelestarian budaya di Provinsi Bali dengan skenario 1 (isian tidak ingat diberi nilai 0) untuk orang tua ketika berumur 11-27 tahun lebih tinggi di hampir semua dimensi dibandingkan Gen Z. Gen Z memiliki skor yang lebih unggul hanya dalam dimensi peninggalan sejarah dan pertunjukkan seni. Pada dimensi permainan rakyat, terdapat gap yang besar antara orang tua (0,76) dan gen Z (0,43). Hal ini dapat disebabkan oleh kemajuan teknologi yang mengakibatkan pergeseran budaya bermain pada gen Z.",
     label: ["Skor GenZ Anak", "Skor GenZ Dewasa", "Skor Orang Tua"],
     warna: ["#FFC837", "#6497B1", "#FA8295"],
-    isPercentage: true,
+    isPercentage: false,
     data: [
       [
         { axis: "Pertunjukan Seni", value: 0.155 },
@@ -2786,8 +2786,8 @@ export const permainanRakyat = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 844 },
@@ -2820,8 +2820,8 @@ export const permainanRakyat = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 83 },
@@ -2854,8 +2854,8 @@ export const permainanRakyat = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 123 },
@@ -2888,8 +2888,8 @@ export const permainanRakyat = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 97 },
@@ -2922,8 +2922,8 @@ export const permainanRakyat = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 84 },
@@ -2956,8 +2956,8 @@ export const permainanRakyat = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 74 },
@@ -2990,8 +2990,8 @@ export const permainanRakyat = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 78 },
@@ -3024,8 +3024,8 @@ export const permainanRakyat = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 90 },
@@ -3058,8 +3058,8 @@ export const permainanRakyat = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 118 },
@@ -3092,8 +3092,8 @@ export const permainanRakyat = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 97 },
@@ -3129,8 +3129,8 @@ export const produkTradisional = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 466 },
@@ -3163,8 +3163,8 @@ export const produkTradisional = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 27 },
@@ -3197,8 +3197,8 @@ export const produkTradisional = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 24 },
@@ -3231,8 +3231,8 @@ export const produkTradisional = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 51 },
@@ -3265,8 +3265,8 @@ export const produkTradisional = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 51 },
@@ -3299,8 +3299,8 @@ export const produkTradisional = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 18 },
@@ -3333,8 +3333,8 @@ export const produkTradisional = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 94 },
@@ -3367,8 +3367,8 @@ export const produkTradisional = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 60 },
@@ -3401,8 +3401,8 @@ export const produkTradisional = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 63 },
@@ -3435,8 +3435,8 @@ export const produkTradisional = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 45 },
@@ -3472,8 +3472,8 @@ export const pemeranSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 1979 },
@@ -3506,8 +3506,8 @@ export const pemeranSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 173 },
@@ -3540,8 +3540,8 @@ export const pemeranSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 237 },
@@ -3574,8 +3574,8 @@ export const pemeranSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 270 },
@@ -3608,8 +3608,8 @@ export const pemeranSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 170 },
@@ -3642,8 +3642,8 @@ export const pemeranSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 192 },
@@ -3676,8 +3676,8 @@ export const pemeranSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 165 },
@@ -3710,8 +3710,8 @@ export const pemeranSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 291 },
@@ -3744,8 +3744,8 @@ export const pemeranSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 215 },
@@ -3778,8 +3778,8 @@ export const pemeranSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 178 },
@@ -3815,8 +3815,8 @@ export const produksiSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 2648 },
@@ -3849,8 +3849,8 @@ export const produksiSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 240 },
@@ -3883,8 +3883,8 @@ export const produksiSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 325 },
@@ -3917,8 +3917,8 @@ export const produksiSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 344 },
@@ -3951,8 +3951,8 @@ export const produksiSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 217 },
@@ -3985,8 +3985,8 @@ export const produksiSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 267 },
@@ -4019,8 +4019,8 @@ export const produksiSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 270 },
@@ -4053,8 +4053,8 @@ export const produksiSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 359 },
@@ -4087,8 +4087,8 @@ export const produksiSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 314 },
@@ -4121,8 +4121,8 @@ export const produksiSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 248 },
@@ -4158,8 +4158,8 @@ export const tontonLangsungSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 1070 },
@@ -4192,8 +4192,8 @@ export const tontonLangsungSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 87 },
@@ -4226,8 +4226,8 @@ export const tontonLangsungSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 103 },
@@ -4260,8 +4260,8 @@ export const tontonLangsungSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 182 },
@@ -4294,8 +4294,8 @@ export const tontonLangsungSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 85 },
@@ -4328,8 +4328,8 @@ export const tontonLangsungSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 86 },
@@ -4362,8 +4362,8 @@ export const tontonLangsungSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 165 },
@@ -4396,8 +4396,8 @@ export const tontonLangsungSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 144 },
@@ -4430,8 +4430,8 @@ export const tontonLangsungSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 120 },
@@ -4464,8 +4464,8 @@ export const tontonLangsungSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 94 },
@@ -4501,8 +4501,8 @@ export const tontonTidakLangsungSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 2197 },
@@ -4535,8 +4535,8 @@ export const tontonTidakLangsungSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 211 },
@@ -4569,8 +4569,8 @@ export const tontonTidakLangsungSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 228 },
@@ -4603,8 +4603,8 @@ export const tontonTidakLangsungSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 312 },
@@ -4637,8 +4637,8 @@ export const tontonTidakLangsungSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 186 },
@@ -4671,8 +4671,8 @@ export const tontonTidakLangsungSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 203 },
@@ -4705,8 +4705,8 @@ export const tontonTidakLangsungSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 270 },
@@ -4739,8 +4739,8 @@ export const tontonTidakLangsungSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 349 },
@@ -4773,8 +4773,8 @@ export const tontonTidakLangsungSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 278 },
@@ -4807,8 +4807,8 @@ export const tontonTidakLangsungSeni = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 203 },
@@ -4844,8 +4844,8 @@ export const tontonLangsungSejarah = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 1350 },
@@ -4878,8 +4878,8 @@ export const tontonLangsungSejarah = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 96 },
@@ -4912,8 +4912,8 @@ export const tontonLangsungSejarah = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 195 },
@@ -4946,8 +4946,8 @@ export const tontonLangsungSejarah = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 249 },
@@ -4980,8 +4980,8 @@ export const tontonLangsungSejarah = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 99 },
@@ -5014,8 +5014,8 @@ export const tontonLangsungSejarah = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 104 },
@@ -5048,8 +5048,8 @@ export const tontonLangsungSejarah = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 255 },
@@ -5082,8 +5082,8 @@ export const tontonLangsungSejarah = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 144 },
@@ -5116,8 +5116,8 @@ export const tontonLangsungSejarah = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 92 },
@@ -5150,8 +5150,8 @@ export const tontonLangsungSejarah = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 116 },
@@ -5187,8 +5187,8 @@ export const tontonTidakLangsungSejarah = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 2624 },
@@ -5221,8 +5221,8 @@ export const tontonTidakLangsungSejarah = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 237 },
@@ -5255,8 +5255,8 @@ export const tontonTidakLangsungSejarah = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 332 },
@@ -5289,8 +5289,8 @@ export const tontonTidakLangsungSejarah = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 330 },
@@ -5323,8 +5323,8 @@ export const tontonTidakLangsungSejarah = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 229 },
@@ -5357,8 +5357,8 @@ export const tontonTidakLangsungSejarah = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 263 },
@@ -5391,8 +5391,8 @@ export const tontonTidakLangsungSejarah = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 329 },
@@ -5425,8 +5425,8 @@ export const tontonTidakLangsungSejarah = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 311 },
@@ -5459,8 +5459,8 @@ export const tontonTidakLangsungSejarah = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 311 },
@@ -5493,8 +5493,8 @@ export const tontonTidakLangsungSejarah = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 244 },
@@ -5530,8 +5530,8 @@ export const jumlahDongeng = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "0 buah", value: 246 },
@@ -5564,8 +5564,8 @@ export const jumlahDongeng = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "0 buah", value: 19 },
@@ -5598,8 +5598,8 @@ export const jumlahDongeng = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "0 buah", value: 37 },
@@ -5632,8 +5632,8 @@ export const jumlahDongeng = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "0 buah", value: 35 },
@@ -5666,8 +5666,8 @@ export const jumlahDongeng = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "0 buah", value: 8 },
@@ -5700,8 +5700,8 @@ export const jumlahDongeng = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "0 buah", value: 26 },
@@ -5734,8 +5734,8 @@ export const jumlahDongeng = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "0 buah", value: 27 },
@@ -5768,8 +5768,8 @@ export const jumlahDongeng = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "0 buah", value: 38 },
@@ -5802,8 +5802,8 @@ export const jumlahDongeng = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "0 buah", value: 25 },
@@ -5836,8 +5836,8 @@ export const jumlahDongeng = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "0 buah", value: 31 },
@@ -5873,8 +5873,8 @@ export const menghadiriUpacara = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 308 },
@@ -5907,8 +5907,8 @@ export const menghadiriUpacara = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 16 },
@@ -5941,8 +5941,8 @@ export const menghadiriUpacara = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 22 },
@@ -5975,8 +5975,8 @@ export const menghadiriUpacara = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 55 },
@@ -6009,8 +6009,8 @@ export const menghadiriUpacara = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 49 },
@@ -6043,8 +6043,8 @@ export const menghadiriUpacara = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 15 },
@@ -6077,8 +6077,8 @@ export const menghadiriUpacara = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 58 },
@@ -6111,8 +6111,8 @@ export const menghadiriUpacara = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 36 },
@@ -6145,8 +6145,8 @@ export const menghadiriUpacara = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 34 },
@@ -6179,8 +6179,8 @@ export const menghadiriUpacara = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 23 },
@@ -6216,8 +6216,8 @@ export const partisipasiAktifUpacara = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 2177 },
@@ -6250,8 +6250,8 @@ export const partisipasiAktifUpacara = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 198 },
@@ -6284,8 +6284,8 @@ export const partisipasiAktifUpacara = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 228 },
@@ -6318,8 +6318,8 @@ export const partisipasiAktifUpacara = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 319 },
@@ -6352,8 +6352,8 @@ export const partisipasiAktifUpacara = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 187 },
@@ -6386,8 +6386,8 @@ export const partisipasiAktifUpacara = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 184 },
@@ -6420,8 +6420,8 @@ export const partisipasiAktifUpacara = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 307 },
@@ -6454,8 +6454,8 @@ export const partisipasiAktifUpacara = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 300 },
@@ -6488,8 +6488,8 @@ export const partisipasiAktifUpacara = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 254 },
@@ -6522,8 +6522,8 @@ export const partisipasiAktifUpacara = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 200 },
@@ -6559,8 +6559,8 @@ export const bahasaRumah = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 249 },
@@ -6593,8 +6593,8 @@ export const bahasaRumah = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 11 },
@@ -6627,8 +6627,8 @@ export const bahasaRumah = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 7 },
@@ -6661,8 +6661,8 @@ export const bahasaRumah = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 45 },
@@ -6695,8 +6695,8 @@ export const bahasaRumah = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 56 },
@@ -6729,8 +6729,8 @@ export const bahasaRumah = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 14 },
@@ -6763,8 +6763,8 @@ export const bahasaRumah = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 38 },
@@ -6797,8 +6797,8 @@ export const bahasaRumah = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 28 },
@@ -6831,8 +6831,8 @@ export const bahasaRumah = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 28 },
@@ -6865,8 +6865,8 @@ export const bahasaRumah = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 22 },
@@ -6902,8 +6902,8 @@ export const bahasaLingkungan = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 292 },
@@ -6936,8 +6936,8 @@ export const bahasaLingkungan = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 13 },
@@ -6970,8 +6970,8 @@ export const bahasaLingkungan = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 9 },
@@ -7004,8 +7004,8 @@ export const bahasaLingkungan = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 47 },
@@ -7038,8 +7038,8 @@ export const bahasaLingkungan = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 72 },
@@ -7072,8 +7072,8 @@ export const bahasaLingkungan = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 14 },
@@ -7106,8 +7106,8 @@ export const bahasaLingkungan = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 40 },
@@ -7140,8 +7140,8 @@ export const bahasaLingkungan = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 29 },
@@ -7174,8 +7174,8 @@ export const bahasaLingkungan = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 36 },
@@ -7208,8 +7208,8 @@ export const bahasaLingkungan = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 32 },
@@ -7246,8 +7246,8 @@ export const bahasaTidakLangsung = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 546 },
@@ -7281,8 +7281,8 @@ export const bahasaTidakLangsung = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 35 },
@@ -7316,8 +7316,8 @@ export const bahasaTidakLangsung = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 24 },
@@ -7351,8 +7351,8 @@ export const bahasaTidakLangsung = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 81 },
@@ -7386,8 +7386,8 @@ export const bahasaTidakLangsung = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 98 },
@@ -7421,8 +7421,8 @@ export const bahasaTidakLangsung = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 29 },
@@ -7456,8 +7456,8 @@ export const bahasaTidakLangsung = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 83 },
@@ -7491,8 +7491,8 @@ export const bahasaTidakLangsung = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 65 },
@@ -7526,8 +7526,8 @@ export const bahasaTidakLangsung = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 79 },
@@ -7561,8 +7561,8 @@ export const bahasaTidakLangsung = [
     interpretasi:
       "Data mengenai jumlah pemilih tetap berdasarkan jenis kelaminProvinsi DKI Jakarta menunjukkan variasi yang signifikan.Jakarta Barat, pemilih laki-laki berjumlah 427, sementara perempuan hanya 258, menunjukkan dominasi laki-laki. Hal serupa terlihat11-15 buah dengan laki-laki 357 dan perempuan 257, sertaKepulauan Seribu dengan laki-laki 341 dan perempuan 269. Namun,1-5 buah dan 6-10 buah, jumlah pemilih perempuan sedikit lebih tinggi dengan masing-masing 339 perempuan dibandingkan 402 laki-laki1-5 buah, dan 426 perempuan dibandingkan 361 laki-laki6-10 buah.>= 16 buah, jumlah pemilih hampir seimbang dengan 356 laki-laki dan 350 perempuan. Secara keseluruhan, data ini menunjukkan variasi yang cukup beragam dengan beberapa wilayah mendominasi oleh pemilih laki-laki sementara yang lain menunjukkan keseimbangan atau dominasi perempuan.",
     label: ["Gen Z Anak", "Gen Z Dewasa", "Orang Tua"],
-    warna: ["#FFBF00", "#FFDF1B", "#FFED46"],
-    isPercentage: true,
+    warna: ["#FFC837", "#6497B1", "#FA8295"],
+    isPercentage: false,
     data: [
       [
         { label: "Tidak Pernah", value: 52 },

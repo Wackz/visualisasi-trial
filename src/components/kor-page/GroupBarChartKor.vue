@@ -15,7 +15,7 @@
               class="w-7 h-7 text-primary transition-transform duration-500 rotate-0 group-hover:rotate-180"
             />
             <div
-              class="absolute top-[1.5rem] -left-[2px] z-20 my-4 w-[8rem] text-base list-none bg-stone-100 divide-y divide-stone-100 rounded-b-2xl border-primary border-[2.5px] border-t-[2.5px] border-t-stone-400 shadow-lg transition-transform duration-500 transform opacity-0 pointer-events-none translate-y-0 group-hover:opacity-100 group-hover:pointer-events-auto max-h-80"
+              class="absolute top-[1.5rem] -left-[2px] overflow-y-scroll z-20 my-4 w-[8rem] text-base list-none bg-stone-100 divide-y divide-stone-100 rounded-b-2xl border-primary border-[2.5px] border-t-[2.5px] border-t-stone-400 shadow-lg transition-transform duration-500 transform opacity-0 pointer-events-none translate-y-0 group-hover:opacity-100 group-hover:pointer-events-auto max-h-80"
             >
               <ul class="py-2 font-medium" role="none">
                 <li
