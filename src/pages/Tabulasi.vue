@@ -21,7 +21,6 @@ const kab = [
 
 watch([dataTerpilih, wilayahTerpilih], () => {
   selectedData.value = allKor2[dataTerpilih.value][wilayahTerpilih.value];
-  console.log(selectedData);
 });
 </script>
 
