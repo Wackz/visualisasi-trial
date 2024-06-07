@@ -31,7 +31,7 @@ export const dataSpiderChartKor = [
     // Nama Daerah
     region: "Provinsi Bali",
     // Kategori untuk Filter Checkbox
-    categories: ["Gen Z Anak", "orang Tua"],
+    categories: ["Gen Z Anak", "Gen Z Dewasa"],
     // Data Gen Z Anak Beserta Orang Tua
     anak: [
       // Variabel Pertama
