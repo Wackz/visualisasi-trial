@@ -21,19 +21,19 @@ export const Bangli = {
       data: [
         // Data Kategori Pertama: Gen Z Anak
         [
-          { label: "0 buah", value: 35, percentage: 9.33 },
-          { label: "1-5 buah", value: 186, percentage: 49.6 },
-          { label: "6-10 buah", value: 121, percentage: 32.27 },
-          { label: "11-15 buah", value: 20, percentage: 5.33 },
-          { label: ">= 16 buah", value: 13, percentage: 3.47 },
+          { label: "Tidak Pernah", value: 35, percentage: 9.33 },
+          { label: "Jarang", value: 186, percentage: 49.6 },
+          { label: "Kadang-kadang", value: 121, percentage: 32.27 },
+          { label: "Sering", value: 20, percentage: 5.33 },
+          { label: "Selalu", value: 13, percentage: 3.47 },
         ],
         // Data Kategori Kedua: Orang Tua
         [
-          { label: "0 buah", value: 68, percentage: 18.99 },
-          { label: "1-5 buah", value: 133, percentage: 37.15 },
-          { label: "6-10 buah", value: 99, percentage: 27.65 },
-          { label: "11-15 buah", value: 33, percentage: 9.22 },
-          { label: ">= 16 buah", value: 25, percentage: 6.98 },
+          { label: "Tidak Pernah", value: 68, percentage: 18.99 },
+          { label: "Jarang", value: 133, percentage: 37.15 },
+          { label: "Kadang-kadang", value: 99, percentage: 27.65 },
+          { label: "Sering", value: 33, percentage: 9.22 },
+          { label: "Selalu", value: 25, percentage: 6.98 },
         ],
       ],
     },
@@ -460,19 +460,19 @@ export const Bangli = {
       data: [
         // Data Kategori Pertama: Gen Z Anak
         [
-          { label: "0 buah", percentage: 9.54, value: 27 },
-          { label: "1-5 buah", percentage: 55.48, value: 157 },
-          { label: "6-10 buah", percentage: 28.27, value: 80 },
-          { label: "11-15 buah", percentage: 4.24, value: 12 },
-          { label: ">= 16 buah", percentage: 2.47, value: 7 },
+          { label: "Tidak Pernah", percentage: 9.54, value: 27 },
+          { label: "Jarang", percentage: 55.48, value: 157 },
+          { label: "Kadang-kadang", percentage: 28.27, value: 80 },
+          { label: "Sering", percentage: 4.24, value: 12 },
+          { label: "Selalu", percentage: 2.47, value: 7 },
         ],
         // Data Kategori Kedua: Orang Tua
         [
-          { label: "0 buah", value: 63, percentage: 24.71 },
-          { label: "1-5 buah", value: 120, percentage: 47.06 },
-          { label: "6-10 buah", value: 49, percentage: 19.22 },
-          { label: "11-15 buah", value: 12, percentage: 47.06 },
-          { label: ">= 16 buah", value: 11, percentage: 24.71 },
+          { label: "Tidak Pernah", value: 63, percentage: 24.71 },
+          { label: "Jarang", value: 120, percentage: 47.06 },
+          { label: "Kadang-kadang", value: 49, percentage: 19.22 },
+          { label: "Sering", value: 12, percentage: 47.06 },
+          { label: "Selalu", value: 11, percentage: 24.71 },
         ],
       ],
     },

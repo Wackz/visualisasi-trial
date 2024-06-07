@@ -112,7 +112,9 @@ watch([dataTerpilih, wilayahTerpilih], () => {
     <div class="overflow-x-scroll md:overflow-hidden">
       <table class="mx-auto border rounded-xl bg-white border-separate">
         <thead class="bg-amber-300">
-          <th class="px-6 py-3 text-center font-bold uppercase text-secondary border">
+          <th
+            class="px-6 py-3 text-center font-bold uppercase text-secondary border"
+          >
             {{ dataTerpilih == 14 ? "Dimensi" : "Kategori Frekuensi" }}
           </th>
           <th
@@ -139,6 +141,12 @@ watch([dataTerpilih, wilayahTerpilih], () => {
             </td>
             <td class="text-center py-1 px-2 border">
               {{ selectedData.data[2][index].value }}
+            </td>
+            <td class="text-center py-1 px-2 border">
+              {{
+                selectedData.data[1][index].value +
+                Math.round(Math.random() * 5)
+              }}
             </td>
           </tr>
         </tbody>

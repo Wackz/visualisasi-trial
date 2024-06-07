@@ -21,19 +21,19 @@ export const Klungkung = {
       data: [
         // Data Kategori Pertama: Gen Z Anak
         [
-          { label: "0 buah", value: 35, percentage: 9.33 },
-          { label: "1-5 buah", value: 186, percentage: 49.6 },
-          { label: "6-10 buah", value: 121, percentage: 32.27 },
-          { label: "11-15 buah", value: 20, percentage: 5.33 },
-          { label: ">= 16 buah", value: 13, percentage: 3.47 },
+          { label: "Tidak Pernah", value: 35, percentage: 9.33 },
+          { label: "Jarang", value: 186, percentage: 49.6 },
+          { label: "Kadang-kadang", value: 121, percentage: 32.27 },
+          { label: "Sering", value: 20, percentage: 5.33 },
+          { label: "Selalu", value: 13, percentage: 3.47 },
         ],
         // Data Kategori Kedua: Orang Tua
         [
-          { label: "0 buah", value: 68, percentage: 18.99 },
-          { label: "1-5 buah", value: 133, percentage: 37.15 },
-          { label: "6-10 buah", value: 99, percentage: 27.65 },
-          { label: "11-15 buah", value: 33, percentage: 9.22 },
-          { label: ">= 16 buah", value: 25, percentage: 6.98 },
+          { label: "Tidak Pernah", value: 68, percentage: 18.99 },
+          { label: "Jarang", value: 133, percentage: 37.15 },
+          { label: "Kadang-kadang", value: 99, percentage: 27.65 },
+          { label: "Sering", value: 33, percentage: 9.22 },
+          { label: "Selalu", value: 25, percentage: 6.98 },
         ],
       ],
     },
@@ -65,7 +65,7 @@ export const Klungkung = {
           { label: "Jarang", percentage: 55.77, value: 203 },
           { label: "Kadang-kadang", percentage: 4.95, value: 18 },
           { label: "Sering", percentage: 3.85, value: 14 },
-          { label: "Selalu", percentage: 4.40, value: 16 },
+          { label: "Selalu", percentage: 4.4, value: 16 },
         ],
       ],
     },
@@ -88,7 +88,7 @@ export const Klungkung = {
           { label: "Jarang", percentage: 5.07, value: 19 },
           { label: "Kadang-kadang", percentage: 2.67, value: 10 },
           { label: "Sering", percentage: 2.13, value: 8 },
-          { label: "Selalu", percentage: 1.60, value: 6 },
+          { label: "Selalu", percentage: 1.6, value: 6 },
         ],
         // Data Kategori Kedua: Orang Tua
         [
@@ -127,7 +127,7 @@ export const Klungkung = {
           { label: "Jarang", percentage: 55.77, value: 203 },
           { label: "Kadang-kadang", percentage: 4.95, value: 18 },
           { label: "Sering", percentage: 3.85, value: 14 },
-          { label: "Selalu", percentage: 4.40, value: 16 },
+          { label: "Selalu", percentage: 4.4, value: 16 },
         ],
       ],
     },
@@ -150,7 +150,7 @@ export const Klungkung = {
           { label: "Jarang", percentage: 5.07, value: 19 },
           { label: "Kadang-kadang", percentage: 2.67, value: 10 },
           { label: "Sering", percentage: 2.13, value: 8 },
-          { label: "Selalu", percentage: 1.60, value: 6 },
+          { label: "Selalu", percentage: 1.6, value: 6 },
         ],
         // Data Kategori Kedua: Orang Tua
         [
@@ -222,7 +222,7 @@ export const Klungkung = {
           { label: "Jarang", percentage: 55.77, value: 203 },
           { label: "Kadang-kadang", percentage: 4.95, value: 18 },
           { label: "Sering", percentage: 3.85, value: 14 },
-          { label: "Selalu", percentage: 4.40, value: 16 },
+          { label: "Selalu", percentage: 4.4, value: 16 },
         ],
       ],
     },
@@ -245,7 +245,7 @@ export const Klungkung = {
           { label: "Jarang", percentage: 5.07, value: 19 },
           { label: "Kadang-kadang", percentage: 2.67, value: 10 },
           { label: "Sering", percentage: 2.13, value: 8 },
-          { label: "Selalu", percentage: 1.60, value: 6 },
+          { label: "Selalu", percentage: 1.6, value: 6 },
         ],
         // Data Kategori Kedua: Orang Tua
         [
@@ -284,7 +284,7 @@ export const Klungkung = {
           { label: "Jarang", percentage: 55.77, value: 203 },
           { label: "Kadang-kadang", percentage: 4.95, value: 18 },
           { label: "Sering", percentage: 3.85, value: 14 },
-          { label: "Selalu", percentage: 4.40, value: 16 },
+          { label: "Selalu", percentage: 4.4, value: 16 },
         ],
       ],
     },
@@ -307,7 +307,7 @@ export const Klungkung = {
           { label: "Jarang", percentage: 5.07, value: 19 },
           { label: "Kadang-kadang", percentage: 2.67, value: 10 },
           { label: "Sering", percentage: 2.13, value: 8 },
-          { label: "Selalu", percentage: 1.60, value: 6 },
+          { label: "Selalu", percentage: 1.6, value: 6 },
         ],
         // Data Kategori Kedua: Orang Tua
         [
@@ -346,7 +346,7 @@ export const Klungkung = {
           { label: "Jarang", percentage: 55.77, value: 203 },
           { label: "Kadang-kadang", percentage: 4.95, value: 18 },
           { label: "Sering", percentage: 3.85, value: 14 },
-          { label: "Selalu", percentage: 4.40, value: 16 },
+          { label: "Selalu", percentage: 4.4, value: 16 },
         ],
       ],
     },
@@ -369,7 +369,7 @@ export const Klungkung = {
           { label: "Jarang", percentage: 5.07, value: 19 },
           { label: "Kadang-kadang", percentage: 2.67, value: 10 },
           { label: "Sering", percentage: 2.13, value: 8 },
-          { label: "Selalu", percentage: 1.60, value: 6 },
+          { label: "Selalu", percentage: 1.6, value: 6 },
         ],
         // Data Kategori Kedua: Orang Tua
         [
@@ -399,8 +399,8 @@ export const Klungkung = {
           { label: "Tidak Pernah", percentage: 6.4, value: 24 },
           { label: "Jarang", percentage: 23.47, value: 88 },
           { label: "Kadang-kadang", percentage: 17.33, value: 65 },
-          { label: "Sering", percentage: 22.40, value: 84 },
-          { label: "Selalu", percentage: 30.40, value: 114 },
+          { label: "Sering", percentage: 22.4, value: 84 },
+          { label: "Selalu", percentage: 30.4, value: 114 },
         ],
         // Data Kategori Kedua: Orang Tua
         [
@@ -430,7 +430,7 @@ export const Klungkung = {
           { label: "Tidak Pernah", percentage: 44.57, value: 123 },
           { label: "Jarang", percentage: 3.99, value: 11 },
           { label: "Kadang-kadang", percentage: 18.48, value: 51 },
-          { label: "Sering", percentage: 16.30, value: 45 },
+          { label: "Sering", percentage: 16.3, value: 45 },
           { label: "Selalu", percentage: 16.67, value: 46 },
         ],
         // Data Kategori Kedua: Orang Tua
@@ -460,19 +460,19 @@ export const Klungkung = {
       data: [
         // Data Kategori Pertama: Gen Z Anak
         [
-          { label: "0 buah", percentage: 9.54, value: 27 },
-          { label: "1-5 buah", percentage: 55.48, value: 157 },
-          { label: "6-10 buah", percentage: 28.27, value: 80 },
-          { label: "11-15 buah", percentage: 4.24, value: 12 },
-          { label: ">= 16 buah", percentage: 2.47, value: 7 },
+          { label: "Tidak Pernah", percentage: 9.54, value: 27 },
+          { label: "Jarang", percentage: 55.48, value: 157 },
+          { label: "Kadang-kadang", percentage: 28.27, value: 80 },
+          { label: "Sering", percentage: 4.24, value: 12 },
+          { label: "Selalu", percentage: 2.47, value: 7 },
         ],
         // Data Kategori Kedua: Orang Tua
         [
-          { label: "0 buah", value: 63, percentage: 24.71 },
-          { label: "1-5 buah", value: 120, percentage: 47.06 },
-          { label: "6-10 buah", value: 49, percentage: 19.22 },
-          { label: "11-15 buah", value: 12, percentage: 47.06 },
-          { label: ">= 16 buah", value: 11, percentage: 24.71 },
+          { label: "Tidak Pernah", value: 63, percentage: 24.71 },
+          { label: "Jarang", value: 120, percentage: 47.06 },
+          { label: "Kadang-kadang", value: 49, percentage: 19.22 },
+          { label: "Sering", value: 12, percentage: 47.06 },
+          { label: "Selalu", value: 11, percentage: 24.71 },
         ],
       ],
     },
@@ -522,8 +522,8 @@ export const Klungkung = {
       data: [
         // Data Kategori Pertama: Gen Z Anak
         [
-          { label: "Tidak Pernah", percentage: 65.80, value: 252 },
-          { label: "Jarang", percentage: 29.50, value: 113 },
+          { label: "Tidak Pernah", percentage: 65.8, value: 252 },
+          { label: "Jarang", percentage: 29.5, value: 113 },
           { label: "Kadang-kadang", percentage: 1.31, value: 5 },
           { label: "Sering", percentage: 2.61, value: 10 },
           { label: "Selalu", percentage: 0.78, value: 3 },
@@ -584,8 +584,8 @@ export const Klungkung = {
       data: [
         // Data Kategori Pertama: Gen Z Anak
         [
-          { label: "Tidak Pernah", percentage: 65.80, value: 252 },
-          { label: "Jarang", percentage: 29.50, value: 113 },
+          { label: "Tidak Pernah", percentage: 65.8, value: 252 },
+          { label: "Jarang", percentage: 29.5, value: 113 },
           { label: "Kadang-kadang", percentage: 1.31, value: 5 },
           { label: "Sering", percentage: 2.61, value: 10 },
           { label: "Selalu", percentage: 0.78, value: 3 },
@@ -677,8 +677,8 @@ export const Klungkung = {
       data: [
         // Data Kategori Pertama: Gen Z Anak
         [
-          { label: "Tidak Pernah", percentage: 65.80, value: 252 },
-          { label: "Jarang", percentage: 29.50, value: 113 },
+          { label: "Tidak Pernah", percentage: 65.8, value: 252 },
+          { label: "Jarang", percentage: 29.5, value: 113 },
           { label: "Kadang-kadang", percentage: 1.31, value: 5 },
           { label: "Sering", percentage: 2.61, value: 10 },
           { label: "Selalu", percentage: 0.78, value: 3 },
@@ -739,8 +739,8 @@ export const Klungkung = {
       data: [
         // Data Kategori Pertama: Gen Z Anak
         [
-          { label: "Tidak Pernah", percentage: 65.80, value: 252 },
-          { label: "Jarang", percentage: 29.50, value: 113 },
+          { label: "Tidak Pernah", percentage: 65.8, value: 252 },
+          { label: "Jarang", percentage: 29.5, value: 113 },
           { label: "Kadang-kadang", percentage: 1.31, value: 5 },
           { label: "Sering", percentage: 2.61, value: 10 },
           { label: "Selalu", percentage: 0.78, value: 3 },
@@ -801,8 +801,8 @@ export const Klungkung = {
       data: [
         // Data Kategori Pertama: Gen Z Anak
         [
-          { label: "Tidak Pernah", percentage: 65.80, value: 252 },
-          { label: "Jarang", percentage: 29.50, value: 113 },
+          { label: "Tidak Pernah", percentage: 65.8, value: 252 },
+          { label: "Jarang", percentage: 29.5, value: 113 },
           { label: "Kadang-kadang", percentage: 1.31, value: 5 },
           { label: "Sering", percentage: 2.61, value: 10 },
           { label: "Selalu", percentage: 0.78, value: 3 },
@@ -836,7 +836,7 @@ export const Klungkung = {
           { label: "Jarang", percentage: 27.56, value: 78 },
           { label: "Kadang-kadang", percentage: 20.85, value: 59 },
           { label: "Sering", percentage: 19.43, value: 55 },
-          { label: "Selalu", percentage: 26.50, value: 75 },
+          { label: "Selalu", percentage: 26.5, value: 75 },
         ],
         // Data Kategori Kedua: Orang Tua
         [

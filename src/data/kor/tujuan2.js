@@ -4,12 +4,16 @@ export const kategori = [
     value: "anak",
   },
   {
+    name: "Orang Tua Anak",
+    value: "ortu_anak",
+  },
+  {
     name: "GenZ Dewasa",
     value: "dewasa",
   },
   {
-    name: "Orang Tua",
-    value: "ortu",
+    name: "Orang Tua Dewasa",
+    value: "ortu_dewasa",
   },
 ];
 

@@ -21,19 +21,19 @@ export const Karangasem = {
       data: [
         // Data Kategori Pertama: Gen Z Anak
         [
-          { label: "0 buah", value: 19, percentage: 6.93 },
-          { label: "1-5 buah", value: 137, percentage: 50 },
-          { label: "6-10 buah", value: 88, percentage: 32.12 },
-          { label: "11-15 buah", value: 23, percentage: 8.39 },
-          { label: ">= 16 buah", value: 7, percentage: 2.55 },
+          { label: "Tidak Pernah", value: 19, percentage: 6.93 },
+          { label: "Jarang", value: 137, percentage: 50 },
+          { label: "Kadang-kadang", value: 88, percentage: 32.12 },
+          { label: "Sering", value: 23, percentage: 8.39 },
+          { label: "Selalu", value: 7, percentage: 2.55 },
         ],
         // Data Kategori Kedua: Orang Tua
         [
-          { label: "0 buah", value: 27, percentage: 10.76 },
-          { label: "1-5 buah", value: 111, percentage: 44.22 },
-          { label: "6-10 buah", value: 81, percentage: 32.27 },
-          { label: "11-15 buah", value: 22, percentage: 8.76 },
-          { label: ">= 16 buah", value: 10, percentage: 3.98 },
+          { label: "Tidak Pernah", value: 27, percentage: 10.76 },
+          { label: "Jarang", value: 111, percentage: 44.22 },
+          { label: "Kadang-kadang", value: 81, percentage: 32.27 },
+          { label: "Sering", value: 22, percentage: 8.76 },
+          { label: "Selalu", value: 10, percentage: 3.98 },
         ],
       ],
     },
@@ -117,19 +117,19 @@ export const Karangasem = {
       data: [
         // Data Kategori Pertama: Gen Z Anak
         [
-          { label: "0 buah", value: 19, percentage: 6.93 },
-          { label: "1-5 buah", value: 137, percentage: 50 },
-          { label: "6-10 buah", value: 88, percentage: 32.12 },
-          { label: "11-15 buah", value: 23, percentage: 8.39 },
-          { label: ">= 16 buah", value: 7, percentage: 2.55 },
+          { label: "Tidak Pernah", value: 19, percentage: 6.93 },
+          { label: "Jarang", value: 137, percentage: 50 },
+          { label: "Kadang-kadang", value: 88, percentage: 32.12 },
+          { label: "Sering", value: 23, percentage: 8.39 },
+          { label: "Selalu", value: 7, percentage: 2.55 },
         ],
         // Data Kategori Kedua: Orang Tua
         [
-          { label: "0 buah", value: 27, percentage: 10.76 },
-          { label: "1-5 buah", value: 111, percentage: 44.22 },
-          { label: "6-10 buah", value: 81, percentage: 32.27 },
-          { label: "11-15 buah", value: 22, percentage: 8.76 },
-          { label: ">= 16 buah", value: 10, percentage: 3.98 },
+          { label: "Tidak Pernah", value: 27, percentage: 10.76 },
+          { label: "Jarang", value: 111, percentage: 44.22 },
+          { label: "Kadang-kadang", value: 81, percentage: 32.27 },
+          { label: "Sering", value: 22, percentage: 8.76 },
+          { label: "Selalu", value: 10, percentage: 3.98 },
         ],
       ],
     },
@@ -150,19 +150,19 @@ export const Karangasem = {
       data: [
         // Data Kategori Pertama: Gen Z Anak
         [
-          { label: "0 buah", value: 19, percentage: 6.93 },
-          { label: "1-5 buah", value: 137, percentage: 50 },
-          { label: "6-10 buah", value: 88, percentage: 32.12 },
-          { label: "11-15 buah", value: 23, percentage: 8.39 },
-          { label: ">= 16 buah", value: 7, percentage: 2.55 },
+          { label: "Tidak Pernah", value: 19, percentage: 6.93 },
+          { label: "Jarang", value: 137, percentage: 50 },
+          { label: "Kadang-kadang", value: 88, percentage: 32.12 },
+          { label: "Sering", value: 23, percentage: 8.39 },
+          { label: "Selalu", value: 7, percentage: 2.55 },
         ],
         // Data Kategori Kedua: Orang Tua
         [
-          { label: "0 buah", value: 27, percentage: 10.76 },
-          { label: "1-5 buah", value: 111, percentage: 44.22 },
-          { label: "6-10 buah", value: 81, percentage: 32.27 },
-          { label: "11-15 buah", value: 22, percentage: 8.76 },
-          { label: ">= 16 buah", value: 10, percentage: 3.98 },
+          { label: "Tidak Pernah", value: 27, percentage: 10.76 },
+          { label: "Jarang", value: 111, percentage: 44.22 },
+          { label: "Kadang-kadang", value: 81, percentage: 32.27 },
+          { label: "Sering", value: 22, percentage: 8.76 },
+          { label: "Selalu", value: 10, percentage: 3.98 },
         ],
       ],
     },

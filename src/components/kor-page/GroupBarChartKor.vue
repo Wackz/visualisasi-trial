@@ -64,6 +64,7 @@
                   @click="changeVariabelName(variabel.name)"
                 >
                   <div
+                    v-if="variabel.value != 14"
                     class="cursor-pointer flex w-full gap-1 px-4 py-2 hover:bg-stone-300 text-primary rounded-lg"
                   >
                     <div
