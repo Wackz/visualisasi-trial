@@ -181,19 +181,19 @@ export const Bali = {
       data: [
         // Data Kategori Pertama: Gen Z Anak
         [
-          { label: "0 buah", value: 246, percentage: 8.49 },
-          { label: "1-5 buah", value: 1652, percentage: 57.02 },
-          { label: "6-10 buah", value: 780, percentage: 26.92 },
-          { label: "11-15 buah", value: 147, percentage: 5.07 },
-          { label: ">= 16 buah", value: 72, percentage: 2.49 },
+          { label: "Tidak Pernah", value: 246, percentage: 8.49 },
+          { label: "Jarang", value: 1652, percentage: 57.02 },
+          { label: "Kadang-kadang", value: 780, percentage: 26.92 },
+          { label: "Sering", value: 147, percentage: 5.07 },
+          { label: "Selalu", value: 72, percentage: 2.49 },
         ],
         // Data Kategori Kedua: Orang Tua
         [
-          { label: "0 buah", value: 416, percentage: 15.26 },
-          { label: "1-5 buah", value: 1235, percentage: 45.3 },
-          { label: "6-10 buah", value: 733, percentage: 26.89 },
-          { label: "11-15 buah", value: 200, percentage: 7.34 },
-          { label: ">= 16 buah", value: 142, percentage: 5.21 },
+          { label: "Tidak Pernah", value: 416, percentage: 15.26 },
+          { label: "Jarang", value: 1235, percentage: 45.3 },
+          { label: "Kadang-kadang", value: 733, percentage: 26.89 },
+          { label: "Sering", value: 200, percentage: 7.34 },
+          { label: "Selalu", value: 142, percentage: 5.21 },
         ],
       ],
     },
