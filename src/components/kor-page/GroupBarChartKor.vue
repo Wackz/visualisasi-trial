@@ -150,7 +150,7 @@ export default {
     const colors = ref(general.value.colors);
     const categories = ref(general.value.categories);
     const daerahName = ref("Bali");
-    const variabelName = ref("Jumlah Pemilih Tetap");
+    const variabelName = ref("Menghadiri Upacara Adat");
     const indexDaerah = ref(0);
     const indexVariabel = ref(0);
     const selectedKategori = ref({
