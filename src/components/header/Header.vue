@@ -15,6 +15,7 @@ const toggleMobileDropdown = () => {
 // Array objek untuk navigasi
 const navigation = [
   { name: "Beranda", href: "/" },
+  { name: "Modul2", href: "/modul2" },
   { name: "Tabulasi", href: "/tabulasi" },
 ];
 
